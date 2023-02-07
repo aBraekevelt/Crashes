@@ -1,0 +1,2428 @@
+﻿==============================================================================
+World of Warcraft: Retail Build (build 47967)
+
+Exe:      C:\Program Files (x86)\World of Warcraft\_retail_\Wow.exe
+Command:  "C:\Program Files (x86)\World of Warcraft\_retail_\Wow.exe" -launcherlogin -uid wow
+Time:     Feb  7, 2023  8:42:49.182 PM
+User:     arnou
+Computer: DESKTOP-E8UUA8L
+------------------------------------------------------------------------------
+
+This application has encountered a critical error:
+
+ERROR #138 (0x8510008a) Fatal exception!
+
+Program:	C:\Program Files (x86)\World of Warcraft\_retail_\Wow.exe
+ProcessID:	11668
+ThreadID:	16472
+Exception:	ACCESS_VIOLATION
+
+The instruction at "0x0000000000000000" referenced memory at "0x0000000000000000".
+The memory could not be "executed".
+
+<Exception.IssueType> Exception
+<ExceptionType> Security Crash
+<Exception.Summary:>
+ACCESS_VIOLATION
+(DBG-OPTIONS<FunctionsOnly SingleLine> SECURITY-CODE<300> DBG-OPTIONS<>)
+The instruction at "0x0000000000000000" referenced memory at "0x0000000000000000".
+The memory could not be "executed".
+<:Exception.Summary>
+<Exception.Assertion:>
+DBG-ADDR<00007ff72f9dad42>("Wow.exe")
+DBG-ADDR<00007ff72f9d52a4>("Wow.exe")
+DBG-ADDR<00007ff72f9c9cca>("Wow.exe")
+DBG-ADDR<00007ff72f9b8335>("Wow.exe")
+DBG-ADDR<00007ff72f9b8309>("Wow.exe")
+DBG-ADDR<00007ff72fa084c8>("Wow.exe")
+DBG-ADDR<00007ff72fa11cca>("Wow.exe")
+<:Exception.Assertion>
+<Exception.HashBlock:>
+DBG-OPTIONS<NoImage NoAddress NoFileLine NoFuncOffset NoDbgAddr>
+ERROR #138
+SECURITY-CODE<300>
+DBG-OPTIONS<>
+<:Exception.HashBlock>
+<ErrorDescription> The instruction at "0x0000000000000000" referenced memory at "0x0000000000000000".
+The memory could not be "executed".
+
+<Version> 10.0.5.47967
+<Config> Retail
+Revision: 1734509
+<Jira.JiraProjectId> 11503
+<Jira.JiraProjectKey> WOW10
+<Exception.ProjectId> 10
+<Exception.BuildNumber> 47967
+<Exception.Branch> 10.0.5
+<WowProject> Mainline
+<Application> World of Warcraft
+<ApplicationType> Client
+Type: WoW
+<Executable> Wow.exe
+Executable UUID: 9BB46F11-92A1-4F32-B4AE-ABC1FE28C183
+<Wow.Platform> X64
+<Exception.Platform> Win 11 (x86 64-bit)
+User: arnou
+Computer: DESKTOP-E8UUA8L
+Virtual Memory: 0.00 MB
+Free Disk Space: 477.53 GB
+Exe Built: Feb  2 2023 17:04:00
+<InitFlags> 0000007F 00001FFF 00000400
+App Up Time: 0 days, 0 hours, 20 minutes, 56 seconds
+System Up Time: 0 days, 2 hours, 57 minutes, 48 seconds
+<TimingMethod> QueryPerformanceCounter
+Current Frame: 80092
+Current Time: 10667023
+Current Tick: 12
+<SystemResumes> 0
+<CharLogins> 1
+Number of thread pool threads (Total): 31
+<LauncherName> Battle.net.exe
+<Locale.Text> enUS
+<Locale.Audio> enUS
+Session Time(hh:mm:ss): 00:20:48
+<SessionTime.Grouping> 00:15:00 - 00:29:59
+Time in World(hh:mm:ss): 00:20:34
+<TimeInWorld.Grouping> 00:15:00 - 00:29:59
+Total Time in World(hh:mm:ss): 00:20:34
+<TotalTimeInWorld.Grouping> 00:15:00 - 00:29:59
+Total lua memory: 569386KB
+<Addons.Current> (null)
+<Addons.Current.Function> UNKNOWN
+<Addons.Current.Object> (null)
+<Set.Addons.All.Loaded> AddonUsage 3.1.4
+<Set.Addons.All.Loaded> AdiBags v1.10.7
+<Set.Addons.All.Loaded> AdvancedInterfaceOptions 1.8.4
+<Set.Addons.All.Loaded> BigWigs v264
+<Set.Addons.All.Loaded> BlizzMove v3.5.9
+<Set.Addons.All.Loaded> CinematicCanceler 1.3.3
+<Set.Addons.All.Loaded> Details #Details.DF.Wrath.10410.148
+<Set.Addons.All.Loaded> Details_Compare2
+<Set.Addons.All.Loaded> Details_EncounterDetails
+<Set.Addons.All.Loaded> Details_RaidCheck
+<Set.Addons.All.Loaded> Details_Streamer
+<Set.Addons.All.Loaded> Details_TinyThreat
+<Set.Addons.All.Loaded> Details_Vanguard
+<Set.Addons.All.Loaded> DialogKey 1.4.4
+<Set.Addons.All.Loaded> ExRT b0b6e8a
+<Set.Addons.All.Loaded> FarmHud 9.1.1-release
+<Set.Addons.All.Loaded> FarmHud_QuestArrow 9.1.1-release
+<Set.Addons.All.Loaded> FarmHud_TrailPath 9.1.1-release
+<Set.Addons.All.Loaded> GladiusEx
+<Set.Addons.All.Loaded> HandyNotes v1.6.13
+<Set.Addons.All.Loaded> HandyNotes_Dragonflight 30
+<Set.Addons.All.Loaded> HandyNotes_Shadowlands 52
+<Set.Addons.All.Loaded> HandyNotes_TreasureHunter v33
+<Set.Addons.All.Loaded> HidingBar v10.0.8
+<Set.Addons.All.Loaded> LibGroupInSpecT-1.1 1.4.0
+<Set.Addons.All.Loaded> Myslot v5.9.0-v10.0.2
+<Set.Addons.All.Loaded> MythicDungeonTools 4.0.1.25
+<Set.Addons.All.Loaded> NameplateAuras 100002.8-release
+<Set.Addons.All.Loaded> OmniCD 10.0.2.2741
+<Set.Addons.All.Loaded> OPie Yuzu 5b
+<Set.Addons.All.Loaded> Plater Plater-v550.2-Retail
+<Set.Addons.All.Loaded> Postal v3.9.5
+<Set.Addons.All.Loaded> PremadeGroupsFilter 3.7.0
+<Set.Addons.All.Loaded> RaiderIO 10.0.0 (v202302070600)
+<Set.Addons.All.Loaded> RaiderIO_DB_EU_M
+<Set.Addons.All.Loaded> RaiderIO_DB_EU_R
+<Set.Addons.All.Loaded> RaiderIO_DB_EU_F
+<Set.Addons.All.Loaded> RareScanner 10.0.5.2
+<Set.Addons.All.Loaded> RCLootCouncil 3.7.0
+<Set.Addons.All.Loaded> Simulationcraft 10.0.5-01
+<Set.Addons.All.Loaded> TrueStatValues 1.0.0
+<Set.Addons.All.Loaded> UnlimitedMapPinDistance 1.2.3
+<Set.Addons.All.Loaded> WarpDeplete 2.1.3
+<Set.Addons.All.Loaded> WeakAuras 5.3.7
+<Set.Addons.All.Loaded> WeakAurasCompanion 1.2.0
+<Set.Addons.All.Loaded> WorldQuestTracker v10.0.2.460-Retail
+<Set.Addons.All.Loaded> SharedMedia_Naowh
+<Set.Addons.All.Loaded> NaowhUI_Installer 1.0.0
+<Set.Addons.All.Loaded> AddOnSkins 4.62
+<Set.Addons.All.Loaded> ElvUI 13.23
+<Set.Addons.All.Loaded> ElvUI_Libraries 1.00
+<Set.Addons.All.Loaded> SpeedyAutoLoot 2.2.8
+<Set.Addons.All.Loaded> TwitchEmotes v2
+<Set.Addons.All.Unloaded> AddonUsage
+<Set.Addons.All.Unloaded> AdiBags
+<Set.Addons.All.Unloaded> AdiBags_Config
+<Set.Addons.All.Unloaded> AdvancedInterfaceOptions
+<Set.Addons.All.Unloaded> BigWigs
+<Set.Addons.All.Unloaded> BigWigs_Core
+<Set.Addons.All.Unloaded> BigWigs_DragonIsles
+<Set.Addons.All.Unloaded> BigWigs_Options
+<Set.Addons.All.Unloaded> BigWigs_Plugins
+<Set.Addons.All.Unloaded> BigWigs_VaultOfTheIncarnates
+<Set.Addons.All.Unloaded> BlizzMove
+<Set.Addons.All.Unloaded> BlizzMove_Debug
+<Set.Addons.All.Unloaded> CinematicCanceler
+<Set.Addons.All.Unloaded> Details
+<Set.Addons.All.Unloaded> Details_Compare2
+<Set.Addons.All.Unloaded> Details_EncounterDetails
+<Set.Addons.All.Unloaded> Details_RaidCheck
+<Set.Addons.All.Unloaded> Details_DataStorage
+<Set.Addons.All.Unloaded> Details_Streamer
+<Set.Addons.All.Unloaded> Details_TinyThreat
+<Set.Addons.All.Unloaded> Details_Vanguard
+<Set.Addons.All.Unloaded> DialogKey
+<Set.Addons.All.Unloaded> ExRT
+<Set.Addons.All.Unloaded> FarmHud
+<Set.Addons.All.Unloaded> FarmHud_QuestArrow
+<Set.Addons.All.Unloaded> FarmHud_TrailPath
+<Set.Addons.All.Unloaded> GladiusEx
+<Set.Addons.All.Unloaded> HandyNotes
+<Set.Addons.All.Unloaded> HandyNotes_Dragonflight
+<Set.Addons.All.Unloaded> HandyNotes_Shadowlands
+<Set.Addons.All.Unloaded> HandyNotes_TreasureHunter
+<Set.Addons.All.Unloaded> HidingBar
+<Set.Addons.All.Unloaded> HidingBar_Options
+<Set.Addons.All.Unloaded> LibGroupInSpecT-1.1
+<Set.Addons.All.Unloaded> LittleWigs
+<Set.Addons.All.Unloaded> LittleWigs_BattleForAzeroth
+<Set.Addons.All.Unloaded> LittleWigs_BurningCrusade
+<Set.Addons.All.Unloaded> LittleWigs_Cataclysm
+<Set.Addons.All.Unloaded> LittleWigs_Classic
+<Set.Addons.All.Unloaded> LittleWigs_Legion
+<Set.Addons.All.Unloaded> LittleWigs_MistsOfPandaria
+<Set.Addons.All.Unloaded> LittleWigs_Shadowlands
+<Set.Addons.All.Unloaded> LittleWigs_WarlordsOfDraenor
+<Set.Addons.All.Unloaded> LittleWigs_WrathOfTheLichKing
+<Set.Addons.All.Unloaded> Myslot
+<Set.Addons.All.Unloaded> MythicDungeonTools
+<Set.Addons.All.Unloaded> NameplateAuras
+<Set.Addons.All.Unloaded> OmniCD
+<Set.Addons.All.Unloaded> OPie
+<Set.Addons.All.Unloaded> Plater
+<Set.Addons.All.Unloaded> Postal
+<Set.Addons.All.Unloaded> PremadeGroupsFilter
+<Set.Addons.All.Unloaded> RaiderIO
+<Set.Addons.All.Unloaded> RaiderIO_DB_US_M
+<Set.Addons.All.Unloaded> RaiderIO_DB_EU_M
+<Set.Addons.All.Unloaded> RaiderIO_DB_KR_M
+<Set.Addons.All.Unloaded> RaiderIO_DB_TW_M
+<Set.Addons.All.Unloaded> RaiderIO_DB_US_R
+<Set.Addons.All.Unloaded> RaiderIO_DB_EU_R
+<Set.Addons.All.Unloaded> RaiderIO_DB_KR_R
+<Set.Addons.All.Unloaded> RaiderIO_DB_TW_R
+<Set.Addons.All.Unloaded> RaiderIO_DB_US_F
+<Set.Addons.All.Unloaded> RaiderIO_DB_EU_F
+<Set.Addons.All.Unloaded> RaiderIO_DB_KR_F
+<Set.Addons.All.Unloaded> RaiderIO_DB_TW_F
+<Set.Addons.All.Unloaded> RareScanner
+<Set.Addons.All.Unloaded> RCLootCouncil
+<Set.Addons.All.Unloaded> Simulationcraft
+<Set.Addons.All.Unloaded> TrueStatValues
+<Set.Addons.All.Unloaded> UnlimitedMapPinDistance
+<Set.Addons.All.Unloaded> WarpDeplete
+<Set.Addons.All.Unloaded> WeakAuras
+<Set.Addons.All.Unloaded> WeakAurasArchive
+<Set.Addons.All.Unloaded> WeakAurasCompanion
+<Set.Addons.All.Unloaded> WeakAurasModelPaths
+<Set.Addons.All.Unloaded> WeakAurasOptions
+<Set.Addons.All.Unloaded> WeakAurasTemplates
+<Set.Addons.All.Unloaded> WorldQuestTracker
+<Set.Addons.All.Unloaded> SharedMedia_Naowh
+<Set.Addons.All.Unloaded> NaowhUI_Installer
+<Set.Addons.All.Unloaded> AddOnSkins
+<Set.Addons.All.Unloaded> ElvUI
+<Set.Addons.All.Unloaded> ElvUI_Libraries
+<Set.Addons.All.Unloaded> ElvUI_Options
+<Set.Addons.All.Unloaded> SpeedyAutoLoot
+<Set.Addons.All.Unloaded> TwitchEmotes
+<Addons.HasAny.Loading> No
+<Addons.HasAny.Loaded> Yes
+<UIReloads> 0
+<LuaErrors> 0
+<BGDLEnabled> No
+<IME.Current> "", {00000000-0000-0000-0000000000000000}, inactive
+<SoundSystem.Restarts> 0
+<LoadingScreen.Enabled> No
+<CombatLogEntry.Current> CombatLogEntry::PushEvent(casterGuidType, targetGuidType): 2, 2
+Number of successful WoWConnections: 17
+<Realm.Name> Ragnaros
+<Realm.IP> 37.244.59.187:3724
+<Realm.Version> 10.0.5.47621
+<Realm.Flags> 0xA0
+Battle Tag: Gruxxar#2579
+<MapId> 2444
+<LocalZone.Name> Field of Ferocity, Ohn'ahran Plains
+<LocalZone.AreaID> 13770
+Local Player: Adelinde, Player-3682-08858742, (2444, -462.7, 2793.58, 431.191)
+Interact Target: Wodin the Troll-Servant, Creature-0-1463-2444-26432-188871-0000625264, (2444, -461.007, 2793.2, 431.337)
+Selected Player: Player-3682-08858742
+<Character.Info.Race> Blood Elf
+<Character.Info.Class> Rogue
+<Character.Info.Spec> Subtlety
+
+CVar Settings: 
+<CVar.RAIDgroundEffectDist> 160
+<CVar.CACHE-WQST-QuestObjectiveHotfixCount> 0
+<CVar.Sound_MasterVolume> 0.10000000149012
+<CVar.groundEffectDist> 320
+<CVar.raidGraphicsTextureResolution> 2
+<CVar.terrainLodDist> 650
+<CVar.playIntroMovie> 11
+<CVar.raidGraphicsProjectedTextures> 1
+<CVar.CACHE-WQST-QuestObjectiveXEffectRecordCount> 23165
+<CVar.RAIDreflectionMode> 0
+<CVar.CACHE-WQST-QuestV2RecordCount> 51956
+<CVar.RAIDparticleMTDensity> 70
+<CVar.graphicsDepthEffects> 3
+<CVar.lodObjectCullSize> 14
+<CVar.RAIDparticleDensity> 50
+<CVar.portal> EU
+<CVar.raidGraphicsEnvironmentDetail> 4
+<CVar.graphicsQuality> 4
+<CVar.agentUID> wow
+<CVar.useMaxFPS> 1
+<CVar.lastCharacterIndex> 3
+<CVar.KioskLobbyKickSeconds> 30
+<CVar.raidGraphicsGroundClutter> 4
+<CVar.Sound_EnableErrorSpeech> 0
+<CVar.RAIDsunShafts> 1
+<CVar.graphicsProjectedTextures> 1
+<CVar.waterDetail> 3
+<CVar.CACHE-WQST-QuestObjectiveRecordCount> 51510
+<CVar.raidGraphicsDepthEffects> 2
+<CVar.maxFPS> 100
+<CVar.horizonStart> 4000
+<CVar.RAIDlodObjectMinSize> 0
+<CVar.sunShafts> 2
+<CVar.raidGraphicsSpellDensity> 4
+<CVar.lodObjectFadeScale> 150
+<CVar.audioLocale> enUS
+<CVar.RAIDgraphicsQuality> 4
+<CVar.physicsLevel> 2
+<CVar.SSAO> 4
+<CVar.raidGraphicsViewDistance> 4
+<CVar.shadowTextureSize> 2048
+<CVar.graphicsTextureResolution> 2
+<CVar.projectedTextures> 1
+<CVar.RAIDfarclip> 6000
+<CVar.RAIDWaterDetail> 2
+<CVar.graphicsGroundClutter> 9
+<CVar.farclip> 10000
+<CVar.graphicsLiquidDetail> 3
+<CVar.doodadLodScale> 150
+<CVar.textLocale> enUS
+<CVar.raidGraphicsComputeEffects> 2
+<CVar.graphicsShadowQuality> 5
+<CVar.RenderScale> 1
+<CVar.RAIDwmoLodDist> 350
+<CVar.gxAdapter> NVIDIA GeForce RTX 2060
+<CVar.shadowSoft> 1
+<CVar.seenLevelSquishPopup> 1
+<CVar.RAIDVolumeFog> 1
+<CVar.groundEffectDensity> 256
+<CVar.engineSurveyPatch> 100005
+<CVar.raidGraphicsParticleDensity> 3
+<CVar.graphicsSpellDensity> 1
+<CVar.RAIDhorizonStart> 1400
+<CVar.hwDetect> 0
+<CVar.videoOptionsVersion> 36
+<CVar.raidGraphicsLiquidDetail> 2
+<CVar.vsync> 0
+<CVar.graphicsEnvironmentDetail> 9
+<CVar.Sound_EnableMusic> 0
+<CVar.gxApi> D3D12
+<CVar.shadowMode> 4
+<CVar.graphicsComputeEffects> 4
+<CVar.volumeFogLevel> 3
+<CVar.raidGraphicsOutlineMode> 1
+<CVar.SSAOType> 1
+<CVar.Sound_EnableSoundWhenGameIsInBG> 1
+<CVar.RAIDentityLodDist> 8
+<CVar.checkAddonVersion> 0
+<CVar.gameTip> 32
+<CVar.spellClutter> 75
+<CVar.RAIDgroundEffectDensity> 64
+<CVar.expandUpgradePanel> 0
+<CVar.RAIDlodObjectFadeScale> 90
+<CVar.refraction> 2
+<CVar.OutlineEngineMode> 1
+<CVar.RAIDrippleDetail> 1
+<CVar.gxFullscreenResolution> 1920x1080
+<CVar.shadowRt> 3
+<CVar.RAIDTerrainLodDiv> 512
+<CVar.CACHE-WQST-QuestObjectiveXEffectHotfixCount> 0
+<CVar.raidGraphicsSSAO> 2
+<CVar.engineSurvey> 8
+<CVar.MSAAQuality> 1
+<CVar.RAIDhorizonClip> 6000
+<CVar.CACHE-WGOB-GameObjectsRecordCount> 102625
+<CVar.graphicsParticleDensity> 5
+<CVar.Sound_EnableReverb> 0
+<CVar.RAIDVolumeFogLevel> 1
+<CVar.horizonClip> 10000
+<CVar.RAIDshadowMode> 2
+<CVar.RAIDlodObjectCullSize> 20
+<CVar.graphicsViewDistance> 9
+<CVar.RAIDweatherDensity> 1
+<CVar.CACHE-WGOB-GameObjectsHotfixCount> 2
+<CVar.CACHE-WQST-QuestV2HotfixCount> 1
+<CVar.cameraDistanceMaxFactor> 2
+<CVar.KioskCharacterTemplateSet> 0
+<CVar.Sound_MaxCacheSizeInBytes> 67108864
+<CVar.wmoLodDist> 400
+<CVar.weatherDensity> 3
+<CVar.RAIDentityShadowFadeScale> 20
+<CVar.Sound_EnablePositionalLowPassFilter> 0
+<CVar.RAIDrefraction> 1
+<CVar.gxMaximize> 1
+<CVar.graphicsOutlineMode> 1
+<CVar.LowLatencyMode> 2
+<CVar.volumeFog> 1
+<CVar.raidGraphicsShadowQuality> 2
+<CVar.RAIDprojectedTextures> 1
+<CVar.RAIDSSAO> 2
+<CVar.graphicsSSAO> 4
+<CVar.lastAddonVersion> 100005
+<CVar.RAIDOutlineEngineMode> 1
+<CVar.KioskCanSessionExpire> 1
+
+----------------------------------------
+Installation settings:
+----------------------------------------
+UID:  wow
+Expansion Level: 9
+PTR: 0
+Beta: 0
+ProductCode: 'WoW'
+
+----------------------------------------
+               GxInfo
+----------------------------------------
+<GxApi> D3D12
+<Graphics.ShaderModel> dx_6_0
+<PresentModificationState> Unmodified
+<WarnedPresentModified> No
+<Graphics.UMDVersion> 31.0.0015.2824
+<Graphics.VendorID> 0x10DE
+  <Graphics.PCIIdentifier> VID=0x10DE,DID=0x1F15,REV=0xA1,SSID=0x00008521
+Graphics.DeviceID 0x1F15
+Graphics.DeviceName NVIDIA GeForce RTX 2060
+<Graphics.VideoMemory> 5968 MB
+<GxRestarts> 0
+<GxFailedFrameStartRestarts> 0
+<GxDeviceLostCount> 0
+<RTShadows> 3
+<BlocklistedDriverWarningShown> No
+
+----------------------------------------
+Streaming diagnostics (Errors):
+----------------------------------------
+Failed decode block (36): hash verification failed using e-key 2ab845d8e30600a24292ab8853bdb720
+Decode failed for file read. E-Key: 114d89ec037153451200000000000000
+Failed decode block (0): hash verification failed using e-key f0b3c25c8e9aa40c910b829df5a35c22
+Decode failed for file read. E-Key: ec7dc4c12c1272049600000000000000
+Failed decode block (23): hash verification failed using e-key 093a546c16703c83249086e94d98631c
+Decode failed for file read. E-Key: 5d7213665d6670873600000000000000
+Failed decode block (0): hash verification failed using e-key a7e63c721ce4e2cfa97000f944081669
+Decode failed for file read. E-Key: 0df760b5117d901bee00000000000000
+Failed decode block (0): hash verification failed using e-key 45f8b0e0021a32e1c685c36f0c9bb68e
+Decode failed for file read. E-Key: 6786cd8e8b87a9f32400000000000000
+Failed decode block (0): hash verification failed using e-key 9f01e503bbb02b5b90d3839c16dcf94c
+Decode failed for file read. E-Key: 0b6093235c6a169cf600000000000000
+Failed decode block (0): hash verification failed using e-key a7e63c721ce4e2cfa97000f944081669
+Decode failed for file read. E-Key: 0df760b5117d901bee00000000000000
+----------------------------------------
+
+Streaming Errors Count: 0
+<Streaming.Errors> No
+
+----------------------------------------
+Streaming diagnostics (Info):
+----------------------------------------
+Adding server node 0. Server 'blzddist1-a.akamaihd.net' | Address '81.243.1.9'
+Adding server node 1. Server 'blzddist1-a.akamaihd.net' | Address '81.243.1.35'
+Adding server node 2. Server 'blzddist1-a.akamaihd.net' | Address '81.243.1.48'
+Adding server node 3. Server 'eu.cdn.blizzard.com' | Address '137.221.64.8'
+Adding server node 4. Server 'eu.cdn.blizzard.com' | Address '137.221.64.4'
+Adding server node 5. Server 'eu.cdn.blizzard.com' | Address '137.221.64.6'
+Adding server node 6. Server 'eu.cdn.blizzard.com' | Address '137.221.64.1'
+Adding server node 7. Server 'level3.blizzard.com' | Address '67.24.33.254'
+Adding server node 8. Server 'level3.blizzard.com' | Address '67.27.154.126'
+Adding server node 9. Server 'level3.blizzard.com' | Address '67.27.153.126'
+Adding server node 10. Server 'level3.blizzard.com' | Address '8.238.111.254'
+Adding server node 11. Server 'blzddist1-a.akamaihd.net' | Address '81.243.1.9'
+Adding server node 12. Server 'blzddist1-a.akamaihd.net' | Address '81.243.1.35'
+Adding server node 13. Server 'blzddist1-a.akamaihd.net' | Address '81.243.1.48'
+Adding server node 14. Server 'eu.cdn.blizzard.com' | Address '137.221.64.8'
+Adding server node 15. Server 'eu.cdn.blizzard.com' | Address '137.221.64.4'
+Adding server node 16. Server 'eu.cdn.blizzard.com' | Address '137.221.64.6'
+Adding server node 17. Server 'eu.cdn.blizzard.com' | Address '137.221.64.1'
+Adding server node 18. Server 'level3.ssl.blizzard.com' | Address '67.24.24.30'
+Adding server node 19. Server 'level3.ssl.blizzard.com' | Address '8.238.111.41'
+Adding server node 20. Server 'level3.ssl.blizzard.com' | Address '67.27.153.129'
+Scanning for KMT sequence numbers.
+Constructing the data group CDN index.
+Constructing the patch group CDN index.
+----------------------------------------
+
+Locally overridden files
+ 423808 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\SquareButtonTextures.tga
+4331838 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\minimalscrollbarproportional.tga
+ 130830 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-MinimizeButton-Down.tga
+1486742 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Up-v2.tga
+ 374155 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UI-Background-Rock.tga
+ 130859 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SliderBar-Border.tga
+ 130832 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-MinimizeButton-Up.tga
+1486740 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Disable-v2.tga
+ -11664 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SILVER-BUTTON-DISABLED.tga
+1723833 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\uiframehorizontal.tga
+ -11663 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-Button-Disabled-Up.tga
+2406976 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameMetalHorizontal.tga
+ 130849 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-Knob.tga
+ 132081 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrame-TopLeft.tga
+ 130819 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-MinusButton-Disabled.tga
+ 136501 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\optionsframe\UI-OptionsFrame-InactiveTab.tga
+ 131173 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Up.tga
+ 343038 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrame-BottomBig.tga
+1130222 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\STORE\shop.tga
+4185482 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\uiframetooltipglues.tga
+3891059 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ChatBubble.tga
+ 620772 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-r.tga
+ 620768 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-b.tga
+ 130820 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-MinusButton-Down.tga
+ 461105 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SilverButtonLG-Left-Up.tga
+4032003 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\scrollbarproportional.tga
+ 132085 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrameTab-Active.tga
+ 615958 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\ARIALN.ttf
+ 521929 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-Char-Up.tga
+ 615961 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\skurri.ttf
+ 130764 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-EmptySlot-Disabled.tga
+ 131890 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Login\Glues-CheckBox-Depressed.tga
+ 131159 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glues-CharacterSelect-Highlight.tga
+ 130825 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-Button-Down.tga
+1146909 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\STORE\servicesatlas.tga
+1536801 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\128RedButton.tga
+ 383587 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SILVER-BUTTON-UP.tga
+ 383585 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SILVER-BUTTON-DOWN.tga
+ 130828 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-Button-Up.tga
+1723832 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\uiframevertical.tga
+ -11667 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-Panel-Button-Up.tga
+ 237699 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Vehicles\UI-Vehicles-Button-Exit-Down.tga
+ 131139 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\friendsframe\whoframe-columntabs.tga
+ 949700 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-Button-Gold-Up.tga
+ 131888 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Login\Glues-CheckBox-Background.tga
+ 343037 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrame-BotRightBig.tga
+ 137056 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-background.tga
+4185487 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\uiframetooltipgluesbackground.tga
+ 620775 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-tr.tga
+     -4 : Cache\Avatar\Group\72.jpg
+ 132079 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HELPFRAME-BOTTOM.tga
+ 620769 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-bl.tga
+ 130763 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-Button-Up.tga
+ 131905 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Login\Glues-ToS-TopRight.tga
+ 620774 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-tl.tga
+ 235423 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-PAIDCHARACTERCUSTOMIZATION-BUTTON.tga
+4185485 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\uiframetooltipgluesvertical.tga
+ 521930 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-CharacterSelect-Hover.tga
+ 343036 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrame-BotLeftBig.tga
+ 130855 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollUpButton-Down.tga
+ 132082 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrame-TopRight.tga
+ 374154 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UI-Background-Marble.tga
+4332072 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\minimalscrollbarvertical.tga
+ 132078 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HELPFRAME-BOTRIGHT.tga
+1318750 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\optionsframe\options.tga
+ 136544 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\PaperDollInfoFrame\UI-CHARACTER-ACTIVETAB.tga
+ 130865 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-spellbookicon-nextpage-down.tga
+    -21 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\615958.slug
+ 235506 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Up-Blue.tga
+ 620773 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-t.tga
+ 131172 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Highlight.tga
+ 130717 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ButtonHilight-Round.tga
+3534438 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\COMMON\commonbuttons.tga
+ 136499 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\optionsframe\OptionsFrameTab-Active.tga
+ 130864 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-spellbookicon-nextpage-disabled.tga
+    -30 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\override_630810450.slug
+3281887 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\COMMON\commonsearch.tga
+ 131154 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\UI-CharacterCreate-ScrollBar-Top.tga
+ 130752 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-checkbox-down.tga
+ 130821 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-MinusButton-Up.tga
+4571485 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\options\optionsexpandlistbutton.tga
+ 337499 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\lfgframe\ui-lfg-icon-roles.tga
+ 620770 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-br.tga
+4567914 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\minimalsliderbar.tga
+ 131171 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Glow.tga
+3177093 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-background-corrupted.tga
+ 130836 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-PlusButton-Down.tga
+ 251963 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\PaperDollInfoFrame\UI-GearManager-Border.tga
+ 951016 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-GoldButton-Up-Right.tga
+ 521926 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-Char-Down-Glow.tga
+ 132077 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HELPFRAME-BOTLEFT.tga
+ 131891 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Login\Glues-CheckBox-Highlight.tga
+ 130824 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-Button-Disabled.tga
+ 130843 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-RADIOBUTTON.tga
+     -1 : C:\Program Files (x86)\World of Warcraft\_retail_\.flavor.info
+2443037 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameIconBorder.tga
+2202478 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\uiframeroleicons.tga
+ 591601 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\Frame-Sides.tga
+ 136569 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\PaperDollInfoFrame\UI-Character-ScrollBar.tga
+    -27 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\LexieReadable-Bold.ttf.ttf
+     -6 : Cache\Avatar\Group\Index.json
+     -5 : C:\Program Files (x86)\World of Warcraft\_retail_\Cache\Avatar\Group\CacheInfo.json
+ 668551 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Login\login-bg-corner.tga
+3058483 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameDiamondMetalHeader2x.tga
+     -2 : Cache\Avatar\Group\1.jpg
+ 130765 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-EmptySlot-White.tga
+ 130829 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-MinimizeButton-Disabled.tga
+ 131200 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\TextPanel-Border.tga
+ 237700 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Vehicles\UI-Vehicles-Button-Exit-Up.tga
+ 521928 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-Char-Up-Glow.tga
+ 130850 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollDownButton-Disabled.tga
+1486741 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Down-v2.tga
+ 130852 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollDownButton-Highlight.tga
+ 130869 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-spellbookicon-prevpage-up.tga
+ 130854 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollUpButton-Disabled.tga
+ -11665 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\uipaidcharactercustomizationbuttons.tga
+ 130718 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ButtonHilight-Square.tga
+3636400 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-background-maw.tga
+ 252042 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Button-Borders2.tga
+ 131155 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\UI-RotationRight-Big-Down.tga
+ 132083 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\helpframebutton-highlight.tga
+1093410 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\BlueGoldButton.tga
+ 130766 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-EmptySlot.tga
+ 975752 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\CharacterUndelete.tga
+ 131170 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Down.tga
+ 951014 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-GoldButton-Up-Left.tga
+ 951010 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-goldbutton-disabled-right.tga
+ 525905 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\LockButton-Border.tga
+ 951012 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-GoldButton-Down-Middle.tga
+ 130760 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-Button-Disabled.tga
+ 130823 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Panel-Button-Disabled-Down.tga
+ 130857 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollUpButton-Up.tga
+ 130856 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollUpButton-Highlight.tga
+ 462323 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\Micro-Highlight.tga
+ 132086 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrameTab-Inactive.tga
+ 951011 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-GoldButton-Down-Left.tga
+ 131169 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Disabled.tga
+ 131157 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-CharacterSelect-Highlight.tga
+ 137055 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-statusbar-border.tga
+4008100 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\scrollbarproportionalvertical.tga
+3056750 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameDiamondMetal2x.tga
+ 131178 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Tooltip-Border.tga
+ 136500 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\optionsframe\UI-OptionsFrame-ActiveTab.tga
+ 951013 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-GoldButton-Down-Right.tga
+2406984 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameMetalVertical2x.tga
+ 130862 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Slot-Background.tga
+ 615962 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\MORPHEUS.ttf
+ 137057 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-border.tga
+ 235505 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Highlight-Blue.tga
+ 130861 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SliderBar-Button-Vertical.tga
+ 620771 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-l.tga
+1723831 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Interface\FrameGeneral\UIFrame.tga
+4185447 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\uiframetooltip.tga
+ 130755 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-CheckBox-Up.tga
+ 130853 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollDownButton-Up.tga
+ 132080 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\HELPFRAME\HelpFrame-Top.tga
+ 131907 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\mainmenu\glues-blizzardlogo.tga
+ 235425 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-PlusMinus-Buttons.tga
+    -22 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\615960.slug
+1538571 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\MacroFrame\MacroPopupVertical.tga
+ 131156 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\UI-RotationRight-Big-Up.tga
+ -11668 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Disabled-blue.tga
+2406987 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameMetalHorizontal2x.tga
+4185474 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\uiframetooltipvertical.tga
+ 130757 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Common-MouseHiLight.tga
+ 939028 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\RestoreButton.tga
+    -28 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\override_2621712845.slug
+ 130851 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ScrollBar-ScrollDownButton-Down.tga
+    -29 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\override_3807264061.slug
+ 615960 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\FRIZQT__.ttf
+ 949699 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-Button-Gold-Down.tga
+ 130753 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-checkbox-highlight.tga
+ 131177 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Tooltip-Background.tga
+3891062 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ChatBubbleVertical.tga
+ 130835 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-PlusButton-Disabled.tga
+ 461103 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SilverButtonLG-Left-Down.tga
+ 460823 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\PaperDollInfoFrame\UI-Character-Tab-RealHighlight.tga
+ 235504 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\Glue-Panel-Button-Down-Blue.tga
+    -26 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\615974.slug
+4698972 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\redbutton2x.tga
+ 131143 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\CharacterCreate-LabelFrame.tga
+ 130867 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-spellbookicon-prevpage-disabled.tga
+1253496 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\charactercreate.tga
+ 130761 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-Button-Down.tga
+ 130723 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\CheckButtonGlow.tga
+     -3 : Cache\Avatar\Group\59.jpg
+ -11669 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\Common\ShopBlueButton.tga
+ 340848 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\UI-CharacterCreate-Highlights.tga
+2350153 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameDiamondMetal.tga
+ 130860 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SliderBar-Button-Horizontal.tga
+ 136564 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\PaperDollInfoFrame\UI-CHARACTER-INACTIVETAB.tga
+ 521927 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-Char-Down.tga
+ 591600 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\ButtonFrame-Mid.tga
+3056755 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\UIFrameDiamondMetalVertical2x.tga
+    -23 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\615960.slugo
+    -24 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\615968.slug
+4614134 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\COMMON\minimalcheckbox.tga
+ -11666 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterSelect\Glue-Panel-Button-Disabled.tga
+ 136579 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\PaperDollInfoFrame\UI-Character-StatBackground.tga
+    -25 : C:\Program Files (x86)\World of Warcraft\_retail_\Fonts\615971.slug
+ 131144 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\UI-CHARACTERCREATE-BACKGROUND.tga
+2145421 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Tooltips\ui-tooltip-background-azerite.tga
+ 130863 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-SortArrow.tga
+ 130868 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-spellbookicon-prevpage-down.tga
+ 951015 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-GoldButton-Up-Middle.tga
+ 131150 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Glues\CharacterCreate\UI-CharacterCreate-IconShadow.tga
+ 235418 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-Button-Borders.tga
+ 130866 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\ui-spellbookicon-nextpage-up.tga
+3856481 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\128GoldRedButton.tga
+ 130838 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-PlusButton-Up.tga
+ 130739 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-ActionButton-Border.tga
+ 951009 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\UI-DialogBox-goldbutton-disabled-middle.tga
+2406979 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\FrameGeneral\uiframemetal2x.tga
+ 130724 : C:\Program Files (x86)\World of Warcraft\_retail_\Interface\Buttons\CheckButtonHilight.tga
+----------------------------------------
+
+-----------------------------------------
+DBG-DATA<
+C427010000008C090019000000000FE0162DC7058839080B00000020000000020010000200004227A0580000190B000000C427010000008C090019000000000F
+E0EC55B3077009080B0000002000000002001000020000FFFFC427010000008C090019000000000FE0428785088839080B0000002000000002001000020000D4
+2D6FFE67526224406710BC8031DD1620931DC8C3D2FF2945DB68D9436812253C0000000000000000000000000000022091000000007C10000000000000000000
+FF000040000000EEFAC9C33BE02945DB68D943D42D6FFE66526226406710BC8031DD16201BDFCAC36F942E45D64DDB434A12253C000000000000000000000000
+2000000000000000000000000000000000000000FF000000000000D42D67FF65526240678084BD8031DD16207F3607C4747F2A459E16D343F911253C00000000
+00000000000000000000002091000000009415000000000000000000FF00004000200055B607C4EEA529452E1FD343FF8FFFFF00A8FFFFD42D67FF5CA9624067
+404BB88031DD1620A62CEDC3ADEE2D45B430DB43C511253C0000000000000000000000000000022091000000000A0B000000000000000000FF000040001000AB
+A0E9C3ABEC2D45802FDC4306D07FFF222C00407A806FFFA2A9624C406703EA788131DD16BCA8E3050000000000000000000F0001000000450023000000006040
+00504600002F19000000000C420FE042878508883908FFFFC427010000008C090024000000000FE0E018EE09AC39081600000040000000080001008080000009
+8066110100B7A9E263222C004094806FFFF5A3E204ED18C3086C81313542BC23B0050000000000000000000B00070000004600000000000000C0000000184255
+55D541000000000FE0E018EE09AC3908222C00400C806FFFABA9621C406703DB818131DD16BC6C07060000000000000000000500010000004600000000000060
+0000D5330000140400000FE0E018EE09AC3908222C004095806FFF9FA8620A5540C3086C81317930BC23B0050000000000000000000B00070000004600000000
+000000C000000050415555AD42000000000FE0162DC705883908222C004088806FFFB2A96230406703DB818131DD16BC6C070600000000000000000005000100
+00004600000000000060000074180000AD0400000FE0162DC705883908C427010000008C09006F210000000FE0E018EE09AC39086121000040000000FC000000
+4FFFFFFF8FFFFFFFFFFFFFFFFFFFFFFFFC0000001E000000002400000005000000000000009338000000000000000000001B68E1630000000001000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000BBD000000000000000000000A824976300000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000072010100000000000000000082E9E163000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000DD01010000000000000000006F1ADD
+63000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006903010000000000000000
+001F5ADB630000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002060100000000
+00000000000571C66300000000000000000100000000000100000000000000000000000000000000000000000000000000000000000000000000000000091101
+0000000000000000004300DD63000000000200000001000100000000000000000000000000000000000000000000000000000000000000000000000000000000
+00701B010000000000000000009AA6E2630000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000053A9E26300000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000D4E9E163000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000003515010000000000000000002400DD630000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000005915010000000000000000003300DD6300000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000006A1501000000000000000000AE38B763000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000006AA3E2630000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000007BA6E26300000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000FFFFC427010000008C09001F000000000FE07B10290A1009081100000020000000308000000000
+0000026C000000D42D6FFF6952E2014067C0EABE8031DD1620084BA2C35F7B2B4579B7DC43BE0D253C0000000000000000000000002000000000000000000000
+000000000000000000FF000000000000D42D6FFF695262014067C0EABE8031DD16205EDAABC33BDE2F451D23DB43BD0D253C0000000000000000000000000000
+002091000000001E0B000000000000000000FF00004000100022AFA9C367842F451DE3DA43FF07C0FFD42D6FFE6752620E406710BC8031DD1620CC63BCC36209
+2E45AD7ADB43960D253C0000000000000000000000000000022091000000003206000000000000000000FF000040000000020BBDC3C4172E45AD7ADB43D42D67
+FF675262406740F1BE8031DD162062B2B8C31EED2A45E7F5D9438F0D253C0000000000000000000000000000002091000000007206000000000000000000FF00
+0040000000415EBAC370C32A454DFAD943D42D67FF6752E24067C0EABE8031DD162030C5BAC30EA72A4538DED9438E0D253C0000000000000000000000000000
+002091000000005C26000000000000000000FF00004000B000002EC2C3B5722945E173D843EC27BFFEF36FFFFEF6873FFFFDD77FFFFFEFBFFF053000000A6000
+000F98400011B0800016E0C0001B180101D42D6FFF6452E20140678075BF8031DD162050B013C477112E456E39D543230D253C00000000000000000000000020
+00000000000000000000000000000000000000FFC00000000000AA346D40D42D6FFF695262014067C0EABE8031DD16205EDAABC33BDE2F451D23DB43CC0C253C
+0000000000000000000000000000002091000000003F04000000000000000000FF000040000000EA39ABC3E3B72F451D03DB43FFFF4227615800002B00000000
+FFFFC427000000008C098001000100000067FF5CA9624067C04AB88031DD162000000000222C004012806FFFF77EE2770C04C3086C81312942BC23B005000000
+0000000000000B00070000003F00000000000000C00000006C4300007042000000000FE0EC55B307700908222C00400A806FFFB3A9E20F406703DB818131DD16
+BC6C07060000000000000000000500010000004100000000000060000088140000A70400000FE0EC55B307700908222C00402E806FFF32A5E29B8D0BC3086C81
+317942BC23B0050000000000000000000B00070000004500000000000000C00000002842ABAA9242000000000FE042878508883908222C00400D806FFFA7A962
+4D406703DB818131DD16BC6C070600000000000000000005000100000045000000000000600000A63F0000E80300000FE042878508883908222C004004806FFF
+1085E2194F03C3086C81312942BC23B0050000000000000000000B00070000004200000000000000C0000000304100002041000000000FE07B10290A10090822
+2C004065806FFF8FA9E22B406703DB818131DD16BC6C070600000000000000000005000100000045000000000000600000239F0000E80300000FE07B10290A10
+0908352C67FF5CA9624067C04AB88031DD162000000000C427010000008C09001F000000000FE07B10290A1009081100000040000000802600000000C8994300
+C89943D42D67FF1FA8624067C03FBE8031DD162087AED9C315743445F8D1D7431E09253C0000000000000000000000000000002091000000008A060000000000
+00000000FF00004000200051ECDAC3F29634458B7FD743FE0FC0FF00F83F00C22767FF64526240678086BD8031DD1620470000000000000000000000C4270100
+00008C09006F210000000FE07B10290A1009086121000040000000FC0000004FFFFFFF8FFFFFFFFFFFFFFFFFFFFFFFFC0000001E000000002200000005000000
+000000009338000000000000000000009A02E1630000000001000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000379D000000000000000000006D9ECD6200000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000BBD0000000000000000000005784D662000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000A302010000000000000000003C54E1630000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000002303010000000000000000008E88E26300000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000351501000000000000000000B3A2E263000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000001A010000000000000000008901E1630000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000891B01000000000000000000E601E16317000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000B77C0000000000000000000075EC3455700000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000BA7C000000000000000000007AEC34550400000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000DE7C0000000000000000000077EC345505000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005B7F000000000000000000001088CE53
+80250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000C71901000000000000000000
+8EA1E26300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000211B010000000000
+000000003C9AE2630000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000047020100
+0000000000000000ED9EE26300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+E206010000000000000000000199E263000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000591501000000000000000000CBA2E2630000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000661101000000000000000000B6A9E26300000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000003FA7E263000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000039A3E2630000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF222C00407A80
+6FFFA2A9624C406703EA788131DD16BCA8E3050000000000000000000F00010000004500290000000060400050460000151D0000000024420FE0428785088839
+08FFFF222C004094806FFFF5A3E204ED18C3086C81313542BC23B0050000000000000000000B00070000004600000000000000C000000018420000A041000000
+000FE0E018EE09AC3908222C00400C806FFFABA9621C406703DB818131DD16BC6C070600000000000000000005000100000046000000000000600000ED2F0000
+1B0400000FE0E018EE09AC3908222C004095806FFF9FA8620A5540C3086C81317930BC23B0050000000000000000000B00070000004600000000000000C00000
+0050410000A042000000000FE0162DC705883908222C004088806FFFB2A96230406703DB818131DD16BC6C070600000000000000000005000100000046000000
+0000006000008C140000B30400000FE0162DC705883908D42D6FFF6C5262024067C067BC8031DD16207169BBC343292C45646ADA434C04253C00000000000000
+0000000000000000009100000000420F000000000000000000FF00004000000021DFB6C3A7622C45E477DA43D42D67FF6852E2406740F1BE8031DD1620FBC3A9
+C3999E3145CE8ADB433204253C000000000000000000000000000000209100000000A10C000000000000000000FF000040004000E78BA6C30E583145FA72DA43
+09C87FFF02F0FFFFFC0F4000F9278000D42D6FFE66526226406710BC8031DD16204469CBC3FB9B2E45D64DDB43F003253C000000000000000000000000000002
+2091000000005E08000000000000000000FF0000400000000B6ECAC3428E2E45D64DDB43D42D6FFF6552E202406740F1BE8031DD1620C3FAC3C320A932452FE0
+DB43AF03253C000000000000000000000000000000209100000000AE0C000000000000000000FF000040002000C78BC2C344303245A344DC4302C03F00FC5780
+FFFFFF1B2C0FE0428785088839080FE04287850888390868D0040001000000001400000000000000000000000000000000000000000000000000000020002893
+43274F9F4300000000450000020000001E080000000000001E08000080FFFF222C808000807FFF6552E22B054067039D808031DD16BC74020200000000000000
+0000000000000000460000980900008000006FFF6452620140678084BD8031DD162001807FFF6552622C05406743B1698131DD16BCC5A6050093330500000000
+00010001000000460000980900000000006FFF6452620140678084BD8031DD1620C427040000008C098000000100000067FF6452624067C0EABE8031DD162094
+0B0000016FFE66526225406710BC8031DD1620053000006FFE66526225406710BC8031DD1620010200000000000000000000A9F0662DF4FA08C4B6542B450BC2
+D4430FA6234000000000000000000000000000000000200000803F00000040000090406D1C9740000020400000E04000009040DB0F4940DB0F49400000000000
+00803F00000040000082420000803F00004040000020410000C8420000B44200000C43000034430000B4430000B442000087430000F0410000A0420000304000
+00E040CDCCCC3E80B7F5243C879F09C4F06F2B450BC2D443800002209139030000150F00000000803F0000803F000080730308C4C42B2B450BC2D4437DD108C4
+DA4D2B450BC2D443879F09C4F06F2B450BC2D443879F09C4F06F2B450BC2D44300000000010200000440F00200000000000000803F6996010000000000000000
+0000000000D2060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF
+00000000000100020100000000050000000000000000000000000000000000000000000000000000000500000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000500000000000000010000000000000051000000010000000100000000000000000000000000000000000000BC0000000000000000000000000000
+000000000000000000000000000000000000000000000000000080000000080000000000000000D000D0070000D00700003333333D0000003E0000803F000000
+0000000000699601000000803F000000000000000000000003000000000000000000000000FFFFFF7F0000803F0000803F0000803F0000803F0000803F000080
+3F0000803F000000000000000000000000010000000000803F000000000000000000000000000000000000000000000000000000000000000064000000000000
+0000000000FFFFFFFF0000000000000000000000000000000000000000000000000000000000000000016FFF645262014067C07DBD8031DD1620051000006FFF
+645262014067C07DBD8031DD1620000000000000000000000000A9F0662D001805C4D20927455F40D14368F31640000000000000000000000000000000000000
+00204000000041000090406D1C9740000020400000E04000009040DB0F4940DB0F4940000000000000803F00000040000082420000803F000040400000204100
+00C8420000B44200000C43000034430000B4430000B442000087430000F0410000A042000030400000E040CDCCCC3E00000000000102000004F7F50200000000
+000000803F188D0100000000000000000000000000D2060000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000FF00000000000100000100000000E1D1000000000000000000000000000000000000000000000000000005000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000E1D10000000000004100000000000000680800003E00000041000000000000000000000000000000000000
+00DB0C000037E4020000000000000000000000000000000000000000000000000000000000000000000083000000080002000000000000D000D0070000D00700
+000C13983F000000400000803F0000000000000000188D01000000803F000000000000000000000000000000000000000000000000FFFFFF7F0000803F000080
+3F0000803F0000803F0000803F0000803F0000803F00000000A901000000000000010000000000803F0000000000000000000000000000000000000000000000
+000000000000000000640000000000000000000000FFFFFFFF0000000000000000000000000000000000000000000000000000000000000000016FFF64526201
+40678084BD8031DD1620051000006FFF6452620140678084BD8031DD1620000000000000000000000000A9F0662D8E8F0FC44E3529459A1FD343785E83400000
+0000000000000000000000000000000000204000000041000090406D1C9740000020400000E04000009040DB0F4940DB0F4940000000000000803F0000004000
+0082420000803F00004040000020410000C8420000B44200000C43000034430000B4430000B442000087430000F0410000A042000030400000E040CDCCCC3E00
+00000000010200000412F60200000000000000803F2CA50100000000000000000000000000D20600000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000FF0000000000010001010000000059D81900000000000000000000000000000000
+00000000000000000005000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000059D819000000000046000000000000009809000046000000460000
+00000000000000000000000000000000001A0D00003FEE0200000000000000000000000000000000000000000000000000000000000000000000800000000800
+00000080000000D000D0070000D0070000C2DCB03F3433D33F0000803F00000000000000002CA501000000803F00000000000000000000000000000000000000
+0000000000FFFFFF7F0000803F0000803F0000803F0000803F0000803F0000803F0000803F00000000CC02000000000000010100000000803F00000000000000
+00000000000000000000000000000000000000000000000000640000000000000000000000FFFFFFFF0000000000000000000000000000000000000000000000
+0000000000000000000167FF6452624067C0A8BD8031DD16200510000067FF6452624067C0A8BD8031DD1620000000000000000000000000A9F0662D55C910C4
+9DC629457D36D34391768D400000000000000000000000000000000000000020405C55D540000090406D1C9740000020400000E04000009040DB0F4940DB0F49
+40000000000000803F00000040000082420000803F00004040000020410000C8420000B44200000C43000034430000B4430000B442000087430000F0410000A0
+42000030400000E040CDCCCC3E00000000000102000004A3F60200000000000000803F05A60100800000000000000000000000D2060000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF00000000000100000100000000739D080000
+00000000000000000000000000000000000000000000000500000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000739D0800000000004600000000
+0000001E080000460000004600000000000000000000000000000000000000CF0C00000000000000000000000000000000000000000000000000000000000000
+000000000000000083000000080000000000000000D000D0070000D00700004EFFAB3F000000000000803F000000000000000005A601000000803F0000000000
+00000000000000000000000000000000000000FFFFFF7F0000803F0000803F0000803F0000803F0000803F0000803F0000803F00000000000000000000000001
+0000000000803F0000000000000000000000000000000000000000000000000000000000000000640000000000000000000000FFFFFFFF000000000000000000
+0000000000000000000000000000000000000000000000D42D6FFF695262014067C0EABE8031DD16203469ABC305B82F452B13DB438CFF243C00000000000000
+0000000000000000209100000000FC03000000000000000000FF0000400000005EDAABC33BDE2F451D23DB43D42D67FF675262406740F1BE8031DD162038A4B7
+C33E102B4537F5D9436CFF243C0000000000000000000000000000002091000000007306000000000000000000FF000040000000A91BB9C36DDF2A4564FAD943
+D42D6FFF6452E20140678075BF8031DD16205B5414C4E5272E4562EDD44303FF243C000000000000000000000000000000209100000000570800000000000000
+0000FF000040003000AE2E13C4C5FF2D45925BD54305E83F00FF07C0FFF82780FFC2276FFF6452E20140678075BF8031DD1620070000000000000000000000D4
+2D67FF6452624067C0EABE8031DD1620B3A7BBC3FCD93845789DE543F7FE243C0000000000000000000000000000002091000000004203000000000000000000
+FF0000400010008076BCC318C73845673AE54300000000D42D6FFF6852E2084067C067BC8031DD16201CC0C4C3F71E3145EFFDDB43A4FE243C00000000000000
+0000000000000000009100000000E90B000000000000000000FF0000400030005166C8C3B4FE3045C798DB43FDFFFFFF040000000B100000FFFF222C00402E80
+6FFF32A5E29B8D0BC3086C81317942BC23B0050000000000000000000B00070000004500000000000000C0000000284255558542000000000FE0428785088839
+08222C00400D806FFFA7A9624D406703DB818131DD16BC6C070600000000000000000005000100000045000000000000600000BA3B0000E80300000FE0428785
+08883908222C004012806FFFF77EE2770C04C3086C81312942BC23B0050000000000000000000B00070000003F00000000000000C00000006C43555555420000
+00000FE0EC55B307700908222C00400A806FFFB3A9E20F406703DB818131DD16BC6C070600000000000000000005000100000041000000000000600000A01000
+00AB0400000FE0EC55B307700908222C004004806FFF1085E2194F03C3086C81312942BC23B0050000000000000000000B00070000004200000000000000C000
+000030410000A040000000000FE07B10290A100908222C004065806FFF8FA9E22B406703DB818131DD16BC6C0706000000000000000000050001000000450000
+00000000600000369B0000E80300000FE07B10290A100908FFFF4227A05800001B0B000000FFFF222C00407A806FFFA2A9624C406703EA788131DD16BCA8E305
+0000000000000000000F000100000045002E0000000060400050460000D5200000000038420FE042878508883908C427020000008C090040000000000FE0E018
+EE09AC390811000000200000000300000002A0300700000000000067FF6452E240678086BD8031DD16200D00000020000000080001000278010000D42D67FF1F
+A8624067C03FBE8031DD162087AED9C315743445F8D1D743B2FA243C0000000000000000000000002000000000000000000000000000000000000000FFC00000
+00000027BF1340D42D6FFE69526209406710BC8031DD1620F81AB7C311713045E6B6DC437FFA243C000000000000000000000000000002209100000000A40B00
+0000000000000000FF0000400000002AA4B5C337683045E6B6DC43D42D6FFF67526211406740D7BB8031DD162003960CC400C82F457987D64370FA243C000000
+0000000000000000000000002091000000004C10000000000000000000FF000040001000048E0BC4FDC92F45FBDED6430000C0FFD42D6FFF66526210406740D7
+BB8031DD1620BAC9DCC316462945C8F6D54357FA243C000000000000000000000000000000209100000000550A000000000000000000FF00004000100083F9DD
+C3A337294553B0D54302000000D42D6FFE65526234406710BC8031DD1620E4AEE6C3868D3345B317D94338FA243C000000000000000000000000000002209100
+0000002712000000000000000000FF000040000000B365E8C3575B3345B317D943FFFF222C004094806FFFF5A3E204ED18C3086C81313542BC23B00500000000
+00000000000B00070000004600000000000000C0000000184255555541000000000FE0E018EE09AC3908222C00400C806FFFABA9621C406703DB818131DD16BC
+6C070600000000000000000005000100000046000000000000600000052C0000370400000FE0E018EE09AC3908222C004095806FFF9FA8620A5540C3086C8131
+7930BC23B0050000000000000000000B00070000004600000000000000C00000005041ABAA9242000000000FE0162DC705883908222C004088806FFFB2A96230
+406703DB818131DD16BC6C070600000000000000000005000100000046000000000000600000A4100000D00400000FE0162DC705883908FFFF942A67FF645262
+4067C071B88031DD1620C7E10200A003010000000002000000000000000005000000000000008004000000000000000000000000000000000000000000000000
+00000000000000000000000000000028800800C8320000000000000000000000000000000000000000000000000000C709000000000000307500000700000000
+00000000000000000000000700000000000000000000000000000007000000000000000000000000000000070000000000000000000000000000000700000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010050300
+8004E90900001C1B020000004A2200004F0D000001000000003B0403008004E90900001C1B020000004A2200004F0D00000100000000340403008004E9090000
+1C1B020000004A2200004F0D000001000000002F0403008004E90900001C1B020000004A2200004F0D0000010000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000C7E10200000000001505900000000000546865204669656C64206F66204665726F636974793A
+204D6173746572206F66207468652048756E7421596F75206172652071756974652074686520696D707265737369766520616E642066656172736F6D6520636F
+6D626174616E742E205468652063656E74617572732061726520696E20617765206F6620796F752E204775726774686F636B2069732066756D696E6720666F72
+206E6F742062657474696E6720686973206661726D206F6E20796F7520696E7374656164206F6620416D61612E20596F752077696E20746865206772616E6420
+7072697A652EFFFFC427010000008C09001F000000000FE07B10290A10090811000000200000003080000000000000026E000000D42D6FFF6C5262024067C067
+BC8031DD1620550EBBC3AFFB2B459F64DA43FBF5243C0000000000000000000000000000000091000000009B05000000000000000000FF0000400000009F7DBB
+C359332C45646ADA43D42D6FFF665262074067C098BB8031DD16206C6CC2C35F9D2D457564DA43B2F5243C000000000000000000000000000000209100000000
+1105000000000000000000FF00004000200002CAC2C3A06C2D455532DA43FFF73F0000280000D42D6FFE69526209406710BC8031DD16200EEAB6C3A8723045E6
+B6DC4311F5243C000000000000000000000000000002209100000000C404000000000000000000FF0000400000002181B7C3C06D3045E6B6DC43FFFF222C8040
+00807FFF655262CB054067431B788131DD16BC6DE0050081A60500000000000100010000004600001E08000000000067FF64526240674072BE8031DD1620C427
+020000008C09800000010000006FFE64526212406710BC8031DD16207F0300000167FF64526240674072BE8031DD16200510000067FF64526240674072BE8031
+DD16200006000000000000000000001FEC662DAB5218C3F2101845F9887D44BFA1B73E0000000000000000000000000000000020000020400000004100009040
+6D1C9740000020400000E04000009040DB0F4940DB0F4940000000000000803F00000040000082420000803F00004040000020410000C8420000B44200000C43
+000034430000B4430000B442000087430000F0410000A042000030400000E040CDCCCC3E80B9222C38AB5218C3F2101845F9887D4400000000000102000004C9
+F90200000000000000803FD75C0000000000000000000000000000D2060000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000FF0000000000010002010000000017B9010000000000000000000000000000000000000000000000000005
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000017B901000000000046000000000000001E0800004600000046000000000000000000000000
+00000000000000230000000000000000000000000000000000000000000000000000000000000000000000000000000003000200086004000000010000D000D0
+070000D00700009A99993E0000803F0000803F0000000000000000D75C00000000803F000000000000000000000003000000000000000000000000FFFFFF7F00
+00803F0000803F0000803F0000803F0000803F0000803F0000803F000000000000000000000000010000000000803F0000000000000000000000000000000000
+000000000000000000000000000000640000000000000000000000FFFFFFFF000000000000000000000000000000000000000000000000000000000000000001
+67FF64526240674070748131DD162C080420000000000072A405C372F21845409B7344A100123F41800400000000006C00000000C1D105000000FFFF0000803F
+E6280100A293000000000000D206000000000000000000000000000000000000200085200000000000000000000000000000803F00000000000AFF0000000000
+00000000000000000000000000000000000000000000000000000000000000222C00402E806FFF32A5E29B8D0BC3086C81317942BC23B0050000000000000000
+000B00070000004500000000000000C0000000284200007042000000000FE042878508883908222C00400D806FFFA7A9624D406703DB818131DD16BC6C070600
+000000000000000005000100000045000000000000600000CF370000E80300000FE042878508883908222C004012806FFFF77EE2770C04C3086C81312942BC23
+B0050000000000000000000B00070000003F00000000000000C00000006C43ABAA3A42000000000FE0EC55B307700908222C00400A806FFFB3A9E20F406703DB
+818131DD16BC6C070600000000000000000005000100000041000000000000600000B80C0000AE0400000FE0EC55B307700908222C004004806FFF1085E2194F
+03C3086C81312942BC23B0050000000000000000000B00070000004200000000000000C0000000304100000000000000000FE07B10290A100908222C00400480
+6FFF1085E2194F03C3086C81312942BC23B0050000000000000000000B00070000004200000000000000C000000030410000BE42000000000FE07B10290A1009
+08222C004065806FFF8FA9E22B406703DB818131DD16BC6C0706000000000000000000050001000000450000000000006000004B970000E80300000FE07B1029
+0A100908FFFFC427010000008C09005E000000000FE04287850888390850000000A00000007800003D028000000100204000000000065934753F5934753F3B78
+233F3B78233F5934753F50FDBD3F50FDBD3F7D0400007D0400000200000000000070000100B5AF8F41B5AF8F41B5AF8F41D42D67FF5CA9624067C04AB88031DD
+1620B8D4F5C379A52F45DB8CD24377F1243C000000000000000000000000000000209900000000540B00006C070000000000FF00004000E000554BEAC372AC2F
+4501B4D4432B00800124E87F011ED8FF001AD0FF0012C87F000AC03F0006B83F0000B0FFFFF9C7BFFFF1CF7FFFE9DFFFFEE2E7BFFEDEEF7FFED6F7FFFDD42D6F
+FF6952E2014067C0EABE8031DD1620F049A5C3247C2B457997DC4344F1243C0000000000000000000000000000002091000000004D0B000000000000000000FF
+000040001000F8AEA1C3377B2B4579B7DC430500C0FFD42D6FFF695262014067C0EABE8031DD16203469ABC305B82F452B13DB4343F1243C0000000000000000
+000000002000000000000000000000000000000000000000FF000000000000D42D6FFF6852E2084067C067BC8031DD1620753AC4C328FE304502F4DB4338F124
+3C0000000000000000000000000000000091000000009903000000000000000000FF0000400000001CC0C4C3F71E3145EFFDDB43D42D6FFE6752620E406710BC
+8031DD16204392BDC3A6102E45AD7ADB432CF1243C000000000000000000000000000002209100000000850C000000000000000000FF00004000000085FFBBC3
+F9062E45AD7ADB43D42D67FF675262406740F1BE8031DD1620908FB6C389322B4518F2D9432AF1243C0000000000000000000000000000002091000000007306
+000000000000000000FF000040000000BE0FB8C3EB022B4564FAD943C2276FFF6652E20340678075BF8031DD1620070000000000000000000000D42D6FFF6452
+E202406740D7BB8031DD16202063CDC36FC22C45C856D843CFF0243C0000000000000000000000000000002091000000001913000000000000000000FF000040
+000000398CCEC347072D45E645D843D42D6FFE64526212406710BC8031DD162049D7B8C3905732451861DD43CDF0243C00000000000000000000000000000220
+91000000003A0B000000000000000000FF00004000000001AEB7C37F3C32451861DD434227484100006294AE030042277D3400004C11D812004227A05800001C
+0B00000042277C34000086123F0D00FFFF222C00400C000FE042878508883908DC26180800004D4D0000000000000FE04287850888390801000000402583123F
+BF1D09000000003FBF1D090000000000222C00407A806FFFA2A9624C406703EA788131DD16BCA8E3050000000000000000000F00010000004500340000000060
+400050460000E6240000000050420FE042878508883908FFFF222C004094806FFFF5A3E204ED18C3086C81313542BC23B0050000000000000000000B00070000
+004600000000000000C000000018425555D540000000000FE0E018EE09AC3908222C00400C806FFFABA9621C406703DB818131DD16BC6C070600000000000000
+0000050001000000460000000000006000001D280000370400000FE0E018EE09AC3908222C004095806FFF9FA8620A5540C3086C81317930BC23B00500000000
+00000000000B00070000004600000000000000C0000000504155558542000000000FE0162DC705883908222C004088806FFFB2A96230406703DB818131DD16BC
+6C070600000000000000000005000100000046000000000000600000BC0C0000D00400000FE0162DC705883908D42D67FF1FA8624067C03FBE8031DD16205C4D
+DBC398A13445826BD743CEEC243C0000000000000000000000000000002091000000009207000000000000000000FF00004000300000A2D8C39A563445DF22D8
+4307C83F0001F83F00FC1F80FFD42D6FFE69526209406710BC8031DD1620E5B7B6C3FE743045E6B6DC4397EC243C000000000000000000000000000002209100
+000000A301000000000000000000FF0000400000000EEAB6C3A8723045E6B6DC43D42D6FFF67526211406740D7BB8031DD16208B540CC4EDCB2F457998D64384
+EC243C0000000000000000000000000000002091000000003505000000000000000000FF00004000100000A00CC400C82F451385D643FE07C0FFD42D6FFE6652
+E244406710BC8031DD16200990F7C39FA332458D1AD9436AEC243C0000000000000000000000000000022091000000001C17000000000000000000FF00004000
+000030CAF9C3E8E132458D1AD943C2276FFF6452620140678086BD8031DD1620050000000000000000000000C22767FF6452E24067C07DBD8031DD16208A0300
+000000000000000000FFFF1B2C0FE0428785088839080FE04287850888390868D004000100000000140000000000000000000000000000000000000000000000
+000000002000289343274F9F4300000000450000020000001E080000000000001E080000807D28020000000A000000520004034067009DE8662D860100000000
+00005200040307000C9DE8662D860100000C000000000000000000217DE8662D860100000C0000005200040307000C00E9662D86010000000000005200040340
+67000AE9662D860100009E0000005200040307000C0BE9662D860100000C0000000000000000002100E9662D860100000C0000005200040307000C85E9662D86
+01000000000000520004034067008FE9662D860100009E0000005200040307000C8FE9662D860100000C000000FFFF7D28010000000600000052000403406700
+9DE8662D86010000000000005200040307000C9DE8662D860100000C000000000000000000217DE8662D860100000C0000005200040307000C00E9662D860100
+0000000000520004034067000AE9662D860100009E0000005200040307000C0BE9662D860100000C000000FFFFC427010000008C09001B000000000FE0428785
+088839080D00000020000000118000000096000000D42D67FF6852E2406740F1BE8031DD1620F3D9A6C306993145D0E8DA43A8E7243C00000000000000000000
+00000000002091000000008F0D000000000000000000FF0000400050001416ABC326A1314521B3DB43F3074000F7070000FB07C0FF020080FF0AF87FFFC2276F
+FF655262014067C07DBD8031DD1620160000000000000000000000D42D67FEEAA862406764BF8031DD1620E05915C41FF73445DE73CF4310E7243C0000000000
+000000000000000000002091000000008328000000000000000000FF000040007000ABDA10C4601D364537C4CF4320F000001DC000001AA800001480C0FF0B40
+80FFFEDF7FFFE107BFFF7D280000000002000000520004034067009DE8662D86010000000000005200040307000C9DE8662D860100000C0000003C2C0FE04287
+85088839080FE0428785088839086FFFB4A9621040670351838131DD16BC0000440D0600000000000000000009030000100000009CE8662D0000000000000000
+00000000000000000000000000000000000000000001000000010000000000000000002000000000000FE04287850888390800003D2C0FE0428785088839080F
+E0428785088839086FFFB4A9621040670351838131DD16BC0000440D060000000000000000000B00000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000D22D34020000FFFFC427040000008C09800000040000006FFF6752620C
+406740D7BB8031DD16206FFF6452620140678084BD8031DD16206FFE66526225406710BC8031DD162067FF6452624067C0A8BD8031DD1620530C0000016FFE69
+526209406710BC8031DD1620053000006FFE69526209406710BC8031DD162001020000000000000000000022E8662DFE16B7C3E56F3045E6B6DC43B77ACF3E00
+000000000000000000000000000000200000803F00000040000090406D1C9740000020400000E04000009040DB0F4940DB0F4940000000000000803F00000040
+000082420000803F00004040000020410000C8420000B44200000C43000034430000B4430000B442000087430000F0410000A042000030400000E040CDCCCC3E
+8042DE243C35A3B6C31A763045E6B6DC4380000220919D020000470500000000803F0000803F000080D3E0B7C312653045E6B6DC430442B7C3966D3045E6B6DC
+4335A3B6C31A763045E6B6DC4335A3B6C31A763045E6B6DC4300000000010200000440F00200000000000000803F69960100000000000000000000000000D206
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF00000000000100
+02010000000005000000000000000000000000000000000000000000000000000000050000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000500
+000000000000010000000000000051000000010000000100000000000000000000000000000000000000BC000000000000000000000000000000000000000000
+0000000000000000000000000000000000000080000000080000000000000000D000D0070000D00700003333333D0000003E0000803F00000000000000006996
+01000000803F000000000000000000000003000000000000000000000000FFFFFF7F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000
+00000000000000000000010000000000803F0000000000000000000000000000000000000000000000000000000000000000640000000000000000000000FFFF
+FFFF0000000000000000000000000000000000000000000000000000000000000000016FFE64526212406710BC8031DD1620053000006FFE64526212406710BC
+8031DD162001020000000000000000000022E8662D924FB9C3E54B32451861DD43AEF2283F00000000000000000000000000000000200000803F000000400000
+90406D1C9740000020400000E04000009040DB0F4940DB0F4940000000000000803F00000040000082420000803F00004040000020410000C8420000B4420000
+0C43000034430000B4430000B442000087430000F0410000A042000030400000E040CDCCCC3E80ABE2243C1997B8C3CA5D32451861DD43800002209118010000
+210700000000803F0000803F0000800B08BAC3003A32451861DD43924FB9C3E54B32451861DD431997B8C3CA5D32451861DD431997B8C3CA5D32451861DD4300
+000000010200000440F00200000000000000803F6C960100000000000000000000000000D2060000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000FF000000000001000201000000000500000000000000000000000000000000000000
+00000000000000000500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000005000000000000000100000000000000510000000100000001000000
+00000000000000000000000000000000BC0000000000000000000000000000000000000000000000000000000000000000000000000000000080000000080000
+000000000000D000D0070000D00700003333333D0000003E0000803F00000000000000006C9601000000803F0000000000000000000000030000000000000000
+00000000FFFFFF7F0000803F0000803F0000803F0000803F0000803F0000803F0000803F000000000000000000000000010000000000803F0000000000000000
+000000000000000000000000000000000000000000000000640000000000000000000000FFFFFFFF000000000000000000000000000000000000000000000000
+0000000000000000016FFE67526224406710BC8031DD1620053000006FFE67526224406710BC8031DD162000020000000000000000000022E8662D931DC8C3D2
+FF2945DB68D943F682C64000000000000000000000000000000000200000803F00000040000090406D1C9740000020400000E04000009040DB0F4940DB0F4940
+000000000000803F00000040000082420000803F00004040000020410000C8420000B44200000C43000034430000B4430000B442000087430000F0410000A042
+000030400000E040CDCCCC3E80E7AE243C931DC8C3D2FF2945DB68D9430000000000010200000440F00200000000000000803F69960100000000000000000000
+000000D2060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF0000
+00000001000201000000000500000000000000000000000000000000000000000000000000000005000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000500000000000000010000000000000051000000010000000100000000000000000000000000000000000000BC00000000000000000000000000000000
+00000000000000000000000000000000000000000000000080000000080000000000000000D000D0070000D00700003333333D0000003E0000803F0000000000
+000000699601000000803F000000000000000000000003000000000000000000000000FFFFFF7F0000803F0000803F0000803F0000803F0000803F0000803F00
+00803F000000000000000000000000010000000000803F0000000000000000000000000000000000000000000000000000000000000000640000000000000000
+000000FFFFFFFF0000000000000000000000000000000000000000000000000000000000000000016FFF6C5262024067C067BC8031DD1620051000006FFF6C52
+62024067C067BC8031DD162001000000000000000000000022E8662D996BBAC325392C458768DA439F918C400000000000000000000000000000000020000020
+4000000041000090406D1C9740000020400000E04000009040DB0F4940DB0F4940000000000000803F00000040000082420000803F00004040000020410000C8
+420000B44200000C43000034430000B4430000B442000087430000F0410000A042000030400000E040CDCCCC3E807DD9243C5785BBC3BCCE2B45C461DA438000
+00009133040000F70D00000000803F0000803F000080A9B6B8C32CDE2C450473DA43001EBAC374562C45646ADA435785BBC3BCCE2B45C461DA435785BBC3BCCE
+2B45C461DA430000000001020000049FF10200000000000000803F64A00100000000000000000000000000D20600000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000FF0000000000010002010000000005000000000000000000000000
+00000000000000000000000000000005000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000050000000000000001000000000000005100000001
+00000001000000000000000000000000000000000000001F00000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000080000000000000000D000D0070000D0070000F49F6A3E0000803F0000803F000000000000000064A001000000803F00000000000000000000000000
+0000000000000000000000FFFFFF7F0000803F0000803F0000803F0000803F0000803F0000803F0000803F000000000000000000000000010000000000803F00
+00000000000000000000000000000000000000000000000000000000000000640000000000000000000000FFFFFFFF0000000000000000000000000000000000
+000000000000000000000000000000FFFF222C00402E806FFF32A5E29B8D0BC3086C81317942BC23B0050000000000000000000B000700000045000000000000
+00C0000000284255555542000000000FE042878508883908222C00400D806FFFA7A9624D406703DB818131DD16BC6C0706000000000000000000050001000000
+45000000000000600000E3330000170400000FE042878508883908
+>
+----------------------------------------
+
+
+----------------------------------------
+Info stack for thread with exception (16472)
+----------------------------------------
+
+00007ff732d59ba0 - 27249440
+00007ff73340e380 - 20480
+
+------------------------------------------------------------------------------
+
+----------------------------------------
+    Compatibility Info
+----------------------------------------
+
+Found user settings: ~ DISABLEDXMAXIMIZEDWINDOWEDMODE RUNASADMIN HIGHDPIAWARE
+<HasCompatibilitySettings> Yes
+<Set.VirusScanners> Microsoft Defender Antivirus
+<ActiveVirusScanner> Microsoft Defender Antivirus
+
+----------------------------------------
+    x64 Registers
+----------------------------------------
+
+RAX=0000000000000000  RCX=0000000000000018  RDX=000000000000012C  RBX=00007FF72F7A0000
+RSP=0000002C8FFFF008  RBP=00000000020C1000  RSI=0000000000000000  RDI=0000000000000000
+R8 =0000000000000000  R9 =0000000000000000  R10=0000000000000000  R11=0000000000000000
+R12=0000000000000000  R13=0000000000000000  R14=0000000000000000  R15=0000000000000000
+RIP=0000000000000000  CSR=00001FB2          FLG=00010246
+CS =0033      DS =002B      ES =002B      SS =002B      FS =0053      GS =002B
+
+XMM0 =00000000000000000000000000000000  XMM1 =00000000000000000000000000000000
+XMM2 =00000000000000000000000000000000  XMM3 =00000000000000000000000000000000
+XMM4 =00000000000000000000000000000000  XMM5 =00000000000000000000000000000000
+XMM6 =00000000000000000000000000000000  XMM7 =00000000000000000000000000000000
+XMM8 =00000000000000000000000000000000  XMM9 =00000000000000000000000000000000
+XMM10=00000000000000000000000000000000  XMM11=00000000000000000000000000000000
+XMM12=00000000000000000000000000000000  XMM13=00000000000000000000000000000000
+XMM14=00000000000000000000000000000000  XMM15=00000000000000000000000000000000
+CSR=00001FB2  MSK=0000FFFF
+
+
+----------------------------------------
+    Stack Trace (Manual)
+----------------------------------------
+
+Showing 83/83 threads...
+
+--- Thread ID: 16472 [Current Thread] ---
+DBG-ADDR<00007ff72f9dad42>("Wow.exe")
+DBG-ADDR<00007ff72f9d52a4>("Wow.exe")
+DBG-ADDR<00007ff72f9c9cca>("Wow.exe")
+DBG-ADDR<00007ff72f9b8335>("Wow.exe")
+DBG-ADDR<00007ff72f9b8309>("Wow.exe")
+DBG-ADDR<00007ff72fa084c8>("Wow.exe")
+DBG-ADDR<00007ff72fa11cca>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14752 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff73104d1d6>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13832 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe25d6896f>("mswsock.dll")
+DBG-ADDR<00007ffe25d61f74>("mswsock.dll")
+DBG-ADDR<00007ffe28e02ad2>("WS2_32.dll")
+DBG-ADDR<00007ff73104e06c>("Wow.exe")
+DBG-ADDR<00007ff73104ccde>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16232 ---
+DBG-ADDR<00007ffe2940f484>("ntdll.dll")
+DBG-ADDR<00007ffe293c5873>("ntdll.dll")
+DBG-ADDR<00007ffe267fa0ed>("KERNELBASE.dll")
+DBG-ADDR<00007ff731fe7bd6>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14724 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe25d6896f>("mswsock.dll")
+DBG-ADDR<00007ffe25d61f74>("mswsock.dll")
+DBG-ADDR<00007ffe28e02ad2>("WS2_32.dll")
+DBG-ADDR<00007ff731097c07>("Wow.exe")
+DBG-ADDR<00007ff731098d98>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7348 ---
+DBG-ADDR<00007ffe29411d94>("ntdll.dll")
+DBG-ADDR<00007ffe2687af74>("KERNELBASE.dll")
+DBG-ADDR<00007ff731f75452>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14844 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff731eeecc0>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 12480 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe25d6896f>("mswsock.dll")
+DBG-ADDR<00007ffe25d61f74>("mswsock.dll")
+DBG-ADDR<00007ffe28e02ad2>("WS2_32.dll")
+DBG-ADDR<00007ff731f42ea7>("Wow.exe")
+DBG-ADDR<00007ff731f1f01f>("Wow.exe")
+DBG-ADDR<00007ff731f2021d>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7360 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13060 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7240 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16572 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 12796 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 8792 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7016 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 1232 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 9620 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 9064 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16932 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7860 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13468 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 9424 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 15644 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 10100 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 3896 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13156 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 6884 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14216 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14624 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 15860 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 3556 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 15204 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14012 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7616 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 10060 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 3596 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16216 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 3492 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16096 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff732169e9a>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13752 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72fde58dd>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7676 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72fde5a7c>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16088 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72fde5a7c>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 1972 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72fde5a7c>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7268 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72fde5d95>("Wow.exe")
+DBG-ADDR<00007ff72f9c85fa>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13688 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff73211c89d>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 4572 ---
+DBG-ADDR<00007ffe2940f954>("ntdll.dll")
+DBG-ADDR<00007ffe268157c9>("KERNELBASE.dll")
+DBG-ADDR<00007ffe227b4557>("CoreMessaging.dll")
+DBG-ADDR<00007ffe227b42cb>("CoreMessaging.dll")
+DBG-ADDR<00007ffe227b40a2>("CoreMessaging.dll")
+DBG-ADDR<00007ffe227d3026>("CoreMessaging.dll")
+DBG-ADDR<00007ffe227d4c05>("CoreMessaging.dll")
+DBG-ADDR<00007ffe227d23ef>("CoreMessaging.dll")
+DBG-ADDR<00007ffe227d122b>("CoreMessaging.dll")
+DBG-ADDR<00007ffe22792b71>("CoreMessaging.dll")
+DBG-ADDR<00007ffe22792aaf>("CoreMessaging.dll")
+DBG-ADDR<00007ffe227a2ab6>("CoreMessaging.dll")
+DBG-ADDR<00007ffe09252d48>("inputhost.dll")
+DBG-ADDR<00007ffe09266049>("inputhost.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 12620 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde62578a8>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 3908 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde62578a8>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 11640 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde72def95>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde72de8e3>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde72d3c4d>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde64e3b6a>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 412 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 15912 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7736 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 10128 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7440 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13400 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 8712 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 12868 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14392 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde650671f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde650658f>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7824 ---
+DBG-ADDR<00007ffe2940f954>("ntdll.dll")
+DBG-ADDR<00007ffe268157c9>("KERNELBASE.dll")
+DBG-ADDR<00007ffe268156ce>("KERNELBASE.dll")
+DBG-ADDR<00007ffde380ad44>("nvcuda64.dll")
+DBG-ADDR<00007ffde38c9d62>("nvcuda64.dll")
+DBG-ADDR<00007ffde380a713>("nvcuda64.dll")
+DBG-ADDR<00007ffde3b3bc64>("nvcuda64.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 15640 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ffe270e3cc9>("msvcp_win.dll")
+DBG-ADDR<00007ffe270e3a6a>("msvcp_win.dll")
+DBG-ADDR<00007ffe0cccf755>("D3D12Core.dll")
+DBG-ADDR<00007ffe0ccce9e4>("D3D12Core.dll")
+DBG-ADDR<00007ffe26f79363>("ucrtbase.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 6928 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ffe270e3cc9>("msvcp_win.dll")
+DBG-ADDR<00007ffe270e3a6a>("msvcp_win.dll")
+DBG-ADDR<00007ffe0cccf755>("D3D12Core.dll")
+DBG-ADDR<00007ffe0ccce9e4>("D3D12Core.dll")
+DBG-ADDR<00007ffe26f79363>("ucrtbase.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 1188 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ffe270e3cc9>("msvcp_win.dll")
+DBG-ADDR<00007ffe270e3a6a>("msvcp_win.dll")
+DBG-ADDR<00007ffe0cccf755>("D3D12Core.dll")
+DBG-ADDR<00007ffe0ccce9e4>("D3D12Core.dll")
+DBG-ADDR<00007ffe26f79363>("ucrtbase.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 1504 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ffe270e3cc9>("msvcp_win.dll")
+DBG-ADDR<00007ffe270e3a6a>("msvcp_win.dll")
+DBG-ADDR<00007ffe0cccf755>("D3D12Core.dll")
+DBG-ADDR<00007ffe0ccce9e4>("D3D12Core.dll")
+DBG-ADDR<00007ffe26f79363>("ucrtbase.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 1788 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72fa3cbc2>("Wow.exe")
+DBG-ADDR<00007ff72fa3f6f9>("Wow.exe")
+DBG-ADDR<00007ff72fa3c54e>("Wow.exe")
+DBG-ADDR<00007ff72fa4c41c>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 15592 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72fa4c389>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 4268 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff731164f5f>("Wow.exe")
+DBG-ADDR<00007ff731164eae>("Wow.exe")
+DBG-ADDR<00007ff7310f3a71>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16872 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff7311431e1>("Wow.exe")
+DBG-ADDR<00007ff7310f313c>("Wow.exe")
+DBG-ADDR<00007ff7310f3a51>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 3892 ---
+DBG-ADDR<00007ffe2940f484>("ntdll.dll")
+DBG-ADDR<00007ffe293c5873>("ntdll.dll")
+DBG-ADDR<00007ffe267fa0ed>("KERNELBASE.dll")
+DBG-ADDR<00007ff7310f32fa>("Wow.exe")
+DBG-ADDR<00007ff7310f3a8a>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 5700 ---
+DBG-ADDR<00007ffe2940f484>("ntdll.dll")
+DBG-ADDR<00007ffe293c5873>("ntdll.dll")
+DBG-ADDR<00007ffe267fa0ed>("KERNELBASE.dll")
+DBG-ADDR<000001b6c9dd5f44>("<unknown>")
+DBG-ADDR<000001b6c9dde992>("<unknown>")
+DBG-ADDR<000001b6c9dd4773>("<unknown>")
+DBG-ADDR<000001b6c9dddd2e>("<unknown>")
+DBG-ADDR<000001b6c9dd456c>("<unknown>")
+DBG-ADDR<000001b6c9dd431c>("<unknown>")
+DBG-ADDR<000001b6c9dd70b0>("<unknown>")
+DBG-ADDR<000001b6c9dd38fc>("<unknown>")
+DBG-ADDR<000001b6c1b6f6e0>("<unknown>")
+DBG-ADDR<000001b6c1b67621>("<unknown>")
+DBG-ADDR<000001b6c1b6b80e>("<unknown>")
+DBG-ADDR<000001b6c1b66dd3>("<unknown>")
+DBG-ADDR<000001b6c1b6e119>("<unknown>")
+DBG-ADDR<000001b6c1b673fc>("<unknown>")
+DBG-ADDR<000001b6c1b69ad2>("<unknown>")
+DBG-ADDR<000001b6c1b66916>("<unknown>")
+DBG-ADDR<000001b6c1b70042>("<unknown>")
+DBG-ADDR<000001b6c1b6780c>("<unknown>")
+DBG-ADDR<000001b6c1b6867f>("<unknown>")
+DBG-ADDR<000001b6c1b6649c>("<unknown>")
+DBG-ADDR<000001b6c1b6014e>("<unknown>")
+
+--- Thread ID: 12848 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff72f9fd712>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 13440 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde7421928>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 2268 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde020aabd>("MessageBus.dll")
+DBG-ADDR<00007ffde01fa2e3>("MessageBus.dll")
+DBG-ADDR<00007ffde022dae6>("MessageBus.dll")
+DBG-ADDR<00007ffde020cd14>("MessageBus.dll")
+DBG-ADDR<00007ffde0230aa6>("MessageBus.dll")
+DBG-ADDR<00007ffde0486ba0>("MessageBus.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14228 ---
+DBG-ADDR<00007ffe2940ef24>("ntdll.dll")
+DBG-ADDR<00007ffe267d96d3>("KERNELBASE.dll")
+DBG-ADDR<00007ffde01f3020>("MessageBus.dll")
+DBG-ADDR<00007ffde022dae6>("MessageBus.dll")
+DBG-ADDR<00007ffde020cd14>("MessageBus.dll")
+DBG-ADDR<00007ffde0230aa6>("MessageBus.dll")
+DBG-ADDR<00007ffde0486ba0>("MessageBus.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 4328 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde6116d11>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14704 ---
+DBG-ADDR<00007ffe2940f954>("ntdll.dll")
+DBG-ADDR<00007ffe268157c9>("KERNELBASE.dll")
+DBG-ADDR<00007ffe268156ce>("KERNELBASE.dll")
+DBG-ADDR<00007ffde6248fc7>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde64e3b6a>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7840 ---
+DBG-ADDR<00007ffe2940f954>("ntdll.dll")
+DBG-ADDR<00007ffe268157c9>("KERNELBASE.dll")
+DBG-ADDR<00007ffe268156ce>("KERNELBASE.dll")
+DBG-ADDR<00007ffde380ad44>("nvcuda64.dll")
+DBG-ADDR<00007ffde38c9d62>("nvcuda64.dll")
+DBG-ADDR<00007ffde380a713>("nvcuda64.dll")
+DBG-ADDR<00007ffde3b3bc64>("nvcuda64.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14628 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde7421928>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7796 ---
+DBG-ADDR<00007ffe294129f4>("ntdll.dll")
+DBG-ADDR<00007ffe293d987b>("ntdll.dll")
+DBG-ADDR<00007ffe26826a49>("KERNELBASE.dll")
+DBG-ADDR<00007ff731a09d86>("Wow.exe")
+DBG-ADDR<00007ff72f9fd7bb>("Wow.exe")
+DBG-ADDR<00007ff72fa0a7ba>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 12684 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ff7311431e1>("Wow.exe")
+DBG-ADDR<00007ff7310f313c>("Wow.exe")
+DBG-ADDR<00007ff7310f3a51>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 7272 ---
+DBG-ADDR<00007ffe2940f484>("ntdll.dll")
+DBG-ADDR<00007ffe293c5873>("ntdll.dll")
+DBG-ADDR<00007ffe267fa0ed>("KERNELBASE.dll")
+DBG-ADDR<00007ff7310f32fa>("Wow.exe")
+DBG-ADDR<00007ff7310f3a8a>("Wow.exe")
+DBG-ADDR<00007ff72fa23acc>("Wow.exe")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 8424 ---
+DBG-ADDR<00007ffe2940ee84>("ntdll.dll")
+DBG-ADDR<00007ffe267e9c4e>("KERNELBASE.dll")
+DBG-ADDR<00007ffde7421928>("nvwgf2umx.dll")
+DBG-ADDR<00007ffde7ac7472>("nvwgf2umx.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 14340 ---
+DBG-ADDR<00007ffe29412a54>("ntdll.dll")
+DBG-ADDR<00007ffe293a5a4e>("ntdll.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+--- Thread ID: 16612 ---
+DBG-ADDR<00007ffe2940ef24>("ntdll.dll")
+DBG-ADDR<00007ffe25d6e36b>("mswsock.dll")
+DBG-ADDR<00007ffe289226bd>("KERNEL32.DLL")
+DBG-ADDR<00007ffe293cdfb8>("ntdll.dll")
+
+
+----------------------------------------
+    Loaded Modules
+----------------------------------------
+
+<Exception.DebugModules:>
+DBG-MODULE<00007ff72f7a0000 05272000 "Wow.exe" "Wow.pdb" 0 {9bb46f11-92a1-4f32-b4aeabc1fe28c183} 1 1675386618>
+DBG-MODULE<00007ffdb9bc0000 066D1000 "nvrtum64.dll" "nvrtum64.pdb" 0 {c0216c8b-69d6-4bac-aa8d8ce5e0db2558} 1 1673806783>
+DBG-MODULE<00007ffdc53f0000 0497D000 "igd12dxva64.dll" "igd12dxva64.pdb" 0 {0ac9356e-03ab-48fa-92e84a8be9c4ea08} 1 1615418167>
+DBG-MODULE<00007ffdd2a20000 0000B000 "midimap.dll" "midimap.pdb" 0 {94c7d6a9-e2eb-727b-38a2a12140328c33} 1 2846610897>
+DBG-MODULE<00007ffdd2a30000 0001E000 "MSACM32.dll" "msacm32.pdb" 0 {92685cef-e4cf-3f46-352c283e363aa981} 1 2295668996>
+DBG-MODULE<00007ffdd2a50000 0000E000 "msacm32.drv" "msacm32.pdb" 0 {a190124e-e257-9197-728ffa73343862c9} 1 556769698>
+DBG-MODULE<00007ffdd2a60000 00009000 "ksuser.dll" "ksuser.pdb" 0 {3a3dd68c-0f9f-0578-d8d443284d96a724} 1 811901432>
+DBG-MODULE<00007ffdd2a70000 00046000 "wdmaud.drv" "wdmaud.pdb" 0 {6404a27c-7e30-4098-def5f0dd393291b5} 1 3061708419>
+DBG-MODULE<00007ffddf280000 0017A000 "sapi.dll" "sapi.pdb" 0 {e15b1014-b571-5f9f-3e083b0f20ba157f} 1 3208449501>
+DBG-MODULE<00007ffde00b0000 00737000 "MessageBus.dll" "MessageBus.pdb" 0 {3e4214ca-94b5-42e3-ba09be011911952d} 14 1573217556>
+DBG-MODULE<00007ffde2900000 00404000 "d3dcompiler_47_64.dll" "D3DCompiler_47.pdb" 0 {918de2c6-43bb-479c-9a097be3c9419de3} 1 1377170154>
+DBG-MODULE<00007ffde3610000 01D2B000 "nvcuda64.dll" "nvcuda.pdb" 0 {70dca8ed-7b63-47ca-a0707d8333439077} 1 1673806423>
+DBG-MODULE<00007ffde5750000 0084F000 "NvCamera64.dll" "NvCamera64.pdb" 0 {9692f600-7d65-4405-b01f7815fd9fc3ce} 1 1658182397>
+DBG-MODULE<00007ffde5fa0000 0368F000 "nvwgf2umx.dll" "nvwgf2umx.pdb" 0 {bb980430-7450-47c9-befd3f32c8496b5c} 1 1673805555>
+DBG-MODULE<00007ffdea830000 003EC000 "igdml64.dll" "igdml64.pdb" 0 {b1093457-b590-434f-b00faf7632459f0f} 1 1615417146>
+DBG-MODULE<00007ffdeb400000 0049E000 "AcLayers.DLL" "AcLayers.pdb" 0 {830aa578-a82e-fab8-11e2ef79a4149281} 1 4245990329>
+DBG-MODULE<00007ffdebfd0000 002D1000 "nvspcap64.dll" "nvspcap64.pdb" 0 {667f2eb3-612c-45c2-a2d1f69b5c2da625} 36 1674231759>
+DBG-MODULE<00007ffe021c0000 0001E000 "MPR.dll" "mpr.pdb" 0 {763e64f0-998f-a37e-712ed8d32d1aa86d} 1 1671634215>
+DBG-MODULE<00007ffe07a10000 0028E000 "COMCTL32.dll" "comctl32.pdb" 0 {e4f2704a-2843-073b-c03df647edd939c0} 1 1644886283>
+DBG-MODULE<00007ffe09230000 00201000 "inputhost.dll" "InputHost.pdb" 0 {67bbe328-91e0-0aeb-e20d956d6587a6f8} 1 3279236166>
+DBG-MODULE<00007ffe0c8c0000 0012D000 "textinputframework.dll" "TextInputFramework.pdb" 0 {c278929a-a57d-3b8b-e6d47df8bfd44645} 1 3091245711>
+DBG-MODULE<00007ffe0cbe0000 00201000 "D3D12Core.dll" "d3d12core.pdb" 0 {2d7ed6c5-a6c6-4469-3872340e2987d0d4} 1 587130565>
+DBG-MODULE<00007ffe0dbd0000 02BC7000 "igc64.dll" "igc64.pdb" 0 {c376d033-6db4-47ae-ba2d7905033c4fdc} 1 1615418583>
+DBG-MODULE<00007ffe114b0000 0145D000 "igd10iumd64.dll" "igd10iumd64.pdb" 0 {2b94c560-0700-48b7-9b42a921bd3d9b8a} 1 1615418058>
+DBG-MODULE<00007ffe13830000 0000C000 "secur32.dll" "secur32.pdb" 0 {12c46ac4-efe8-fdf4-17de05b255ddfb7c} 1 1384258309>
+DBG-MODULE<00007ffe14190000 00029000 "winmmbase.dll" "WINMMBASE.pdb" 0 {f62d2304-702b-8de0-6aeda21ca6f8c7a2} 1 2469869321>
+DBG-MODULE<00007ffe15910000 00049000 "icm32.dll" "icm32.pdb" 0 {3871827d-b823-41ea-451c725865c7bb34} 1 2178790650>
+DBG-MODULE<00007ffe16dc0000 0000A000 "rasadhlp.dll" "rasadhlp.pdb" 0 {00fb7ec6-a6b9-b4cd-f655cb7234e92644} 1 2590923162>
+DBG-MODULE<00007ffe183c0000 001E5000 "AUDIOSES.DLL" "audioses.pdb" 0 {8505072d-3145-836f-f38b709c90dcb84c} 1 4044189566>
+DBG-MODULE<00007ffe18f00000 0007B000 "MpOav.dll" "MpOAV.pdb" 0 {681665af-3797-23df-92c8f8b00ebf36ce} 1 458663444>
+DBG-MODULE<00007ffe19260000 0001D000 "amsi.dll" "Amsi.pdb" 0 {905595b3-03f3-48ee-af575caee60f8364} 1 1259135533>
+DBG-MODULE<00007ffe19cf0000 002C8000 "igdgmm64.dll" "igdgmm64.pdb" 0 {b13a9584-a175-41fa-8333bf1676b03851} 1 1615417424>
+DBG-MODULE<00007ffe1a390000 000BE000 "nvldumdx.dll" "nvldumdx.pdb" 0 {7c9a300f-e70d-4f26-a1db4befd7fa53c5} 1 1673804431>
+DBG-MODULE<00007ffe1a550000 00063000 "AcGenral.DLL" "AcGenral.pdb" 0 {b084d2a4-b78f-fc26-e165d93cc76fc4b6} 1 735855798>
+DBG-MODULE<00007ffe1b530000 00014000 "wbemsvc.dll" "wbemsvc.pdb" 0 {a50c5b72-d1f6-12cc-a02c73df420bfa19} 1 72402343>
+DBG-MODULE<00007ffe1b5d0000 000F8000 "fastprox.dll" "fastprox.pdb" 0 {1ae102c1-ba1b-cf87-939cb1066447bebd} 1 3959643484>
+DBG-MODULE<00007ffe1b930000 0026A000 "twinapi.appcore.dll" "twinapi.appcore.pdb" 0 {741ae5b2-6fd0-d0ab-d1f3c33f1acc8135} 1 700499563>
+DBG-MODULE<00007ffe1c9a0000 0036C000 "CoreUIComponents.dll" "CoreUIComponents.pdb" 0 {aa43101f-f0f9-8149-682bd1a813d8d6e4} 1 364956812>
+DBG-MODULE<00007ffe1cfa0000 00770000 "nvapi64.dll" "nvapi64.pdb" 0 {f7958437-7315-4b18-85fe0d9f0ccffe49} 1 1673803868>
+DBG-MODULE<00007ffe1e060000 00080000 "wbemcomn.dll" "wbemcomn.pdb" 0 {b8422760-9c4d-58d3-fbe111fab9310611} 1 3448213096>
+DBG-MODULE<00007ffe1e0e0000 00010000 "wbemprox.dll" "wbemprox.pdb" 0 {22690801-8ad1-dc4e-baa07b2727567ece} 1 923628105>
+DBG-MODULE<00007ffe1e120000 0009D000 "MMDevApi.dll" "MMDevAPI.pdb" 0 {d7969a9a-eacf-f46e-f9c29a112184f002} 1 1390397199>
+DBG-MODULE<00007ffe1ed90000 00158000 "drvstore.dll" "drvstore.pdb" 0 {18b620d3-5e19-e45c-e69997323c2fccae} 1 997176467>
+DBG-MODULE<00007ffe1eef0000 00032000 "cryptnet.dll" "cryptnet.pdb" 0 {7f59a7fb-cc2f-ed52-1a83d2f881d469ed} 1 2108343967>
+DBG-MODULE<00007ffe1f070000 00083000 "fwpuclnt.dll" "fwpuclnt.pdb" 0 {a1f63fca-2f22-0e0c-3848943af4a76deb} 1 1977844624>
+DBG-MODULE<00007ffe1f440000 00049000 "directxdatabasehelper.dll" "directxdatabasehelper.pdb" 0 {b5116335-2c3f-e065-f08167af30ad19d7} 1 270055756>
+DBG-MODULE<00007ffe1f4b0000 0001F000 "dhcpcsvc.DLL" "dhcpcsvc.pdb" 0 {7d2058f7-5cb6-fb50-668a21ecd069ee7f} 1 56636771>
+DBG-MODULE<00007ffe1f4d0000 00019000 "dhcpcsvc6.DLL" "dhcpcsvc6.pdb" 0 {04ee9b6d-032b-7a23-962710fafddacabc} 1 1590654556>
+DBG-MODULE<00007ffe1f6e0000 0012F000 "WINHTTP.dll" "winhttp.pdb" 0 {63aebe8e-a5ac-2fec-4cdd270d42fab784} 1 3962620149>
+DBG-MODULE<00007ffe1f8e0000 00034000 "WINMM.dll" "winmm.pdb" 0 {a970b75d-63e9-7f92-eefa0ca856f3ff07} 1 3583686306>
+DBG-MODULE<00007ffe1fa20000 0002F000 "D3DSCache.dll" "D3DSCache.pdb" 0 {23593a7c-3534-98c0-79e3c0023d131d97} 1 3635319614>
+DBG-MODULE<00007ffe1fde0000 0000A000 "VERSION.dll" "version.pdb" 0 {de70f072-658a-1f2c-c667893e7e35c434} 1 2426516874>
+DBG-MODULE<00007ffe1fe10000 0000B000 "AVRT.dll" "avrt.pdb" 0 {28e74310-23d0-7f31-d8a5ed58cee037c9} 1 3959302323>
+DBG-MODULE<00007ffe207d0000 00027000 "ncryptsslp.dll" "ncryptsslp.pdb" 0 {88a0c9e9-f4e0-055f-39f98a3f55461a11} 1 2575568790>
+DBG-MODULE<00007ffe20ad0000 000BD000 "mscms.dll" "mscms.pdb" 0 {13ada0b3-bfd8-a273-5f291e3fcfbea38c} 1 3386645756>
+DBG-MODULE<00007ffe21370000 001B0000 "WindowsCodecs.dll" "WindowsCodecs.pdb" 0 {608cc12b-90de-6e44-7dd5e02c086a9b75} 1 484042414>
+DBG-MODULE<00007ffe21820000 00257000 "d3d11.dll" "d3d11.pdb" 0 {5f1c576a-dff2-c252-67a8c6537ac09398} 1 2798973976>
+DBG-MODULE<00007ffe22050000 00242000 "dcomp.dll" "dcomp.pdb" 0 {d8c25b4e-6d76-417d-2d392fc908e4447f} 1 4214363700>
+DBG-MODULE<00007ffe22340000 00023000 "d3d12.dll" "d3d12.pdb" 0 {d573b4a0-75ef-e7d6-9a1fd91821bd0e96} 1 1877696843>
+DBG-MODULE<00007ffe22790000 00133000 "CoreMessaging.dll" "CoreMessaging.pdb" 0 {31b7bbb2-80e4-4b86-8f4aa5487425840e} 1 3284468150>
+DBG-MODULE<00007ffe22ca0000 00097000 "apphelp.dll" "apphelp.pdb" 0 {343e06a5-5d59-8fdb-ab673cb24ca1465a} 1 934129292>
+DBG-MODULE<00007ffe233a0000 00046000 "DINPUT8.dll" "dinput8.pdb" 0 {cf7fa684-213f-d1f3-5ed211abc8038fbb} 1 3701769588>
+DBG-MODULE<00007ffe23a80000 00008000 "XINPUT9_1_0.dll" "XInput9_1_0.pdb" 0 {abcddd7d-9052-f454-3ebbfe4055179ae6} 1 3432108565>
+DBG-MODULE<00007ffe23d10000 000AB000 "uxtheme.dll" "uxtheme.pdb" 0 {6620f288-a9d4-2408-9bc777d1a3d210db} 1 1207649681>
+DBG-MODULE<00007ffe23e80000 000F7000 "dxgi.dll" "dxgi.pdb" 0 {5f1466aa-843f-ad12-d575aa352ccade2a} 1 73480150>
+DBG-MODULE<00007ffe23f90000 0002B000 "dwmapi.dll" "dwmapi.pdb" 0 {6de45503-05fa-fb50-b791c5e9a77098f7} 1 1287932046>
+DBG-MODULE<00007ffe24000000 00036000 "dxcore.dll" "DXCore.pdb" 0 {3a2f1140-6bf2-e990-9bd109b8f7967bf0} 1 3282957404>
+DBG-MODULE<00007ffe24380000 00015000 "resourcepolicyclient.dll" "ResourcePolicyClient.pdb" 0 {577e5f58-b925-de59-3bf59a01d4c61066} 1 509352787>
+DBG-MODULE<00007ffe246a0000 0013E000 "wintypes.dll" "WinTypes.pdb" 0 {0167d966-47b0-04c3-6e9ebd0474dfc00b} 1 3304004585>
+DBG-MODULE<00007ffe247e0000 008C8000 "windows.storage.dll" "Windows.Storage.pdb" 0 {4b9d5f48-3028-ee1c-82336a4ba266778a} 1 2964585954>
+DBG-MODULE<00007ffe250b0000 0000E000 "HID.DLL" "hid.pdb" 0 {774b5e47-ac78-329b-974f4fd462197673} 1 3951489218>
+DBG-MODULE<00007ffe25370000 0002D000 "IPHLPAPI.DLL" "iphlpapi.pdb" 0 {029a4c79-8a7d-f515-597e19696269acf1} 1 1851093522>
+DBG-MODULE<00007ffe253e0000 000F3000 "DNSAPI.dll" "dnsapi.pdb" 0 {4d2cb45d-1ce6-d616-8fc3c2c07fcfe815} 1 2864970205>
+DBG-MODULE<00007ffe256a0000 00013000 "UMPDC.dll" "UMPDC.pdb" 0 {55afd50a-bfc6-cbe1-851fdd66282e38b5} 1 2224200524>
+DBG-MODULE<00007ffe256c0000 0004D000 "powrprof.dll" "powrprof.pdb" 0 {49ba3fb3-f372-2ef9-ac4ef211ebbfd082} 1 2545630632>
+DBG-MODULE<00007ffe25760000 000A9000 "schannel.DLL" "schannel.pdb" 0 {7fd731fb-9e89-b449-e64c27d5a571c4f4} 1 2297938982>
+DBG-MODULE<00007ffe25860000 00035000 "rsaenh.dll" "rsaenh.pdb" 0 {91be5ba2-9d36-9f28-cc88ea5d556566a5} 1 1886312681>
+DBG-MODULE<00007ffe258f0000 00018000 "kernel.appcore.dll" "Kernel.Appcore.pdb" 0 {7001c143-7cf3-728c-1f2dd5ab1da83f42} 1 328750810>
+DBG-MODULE<00007ffe25910000 00034000 "ntmarta.dll" "ntmarta.pdb" 0 {52637385-bcd5-cd2d-559c0be20cda9069} 1 4066697849>
+DBG-MODULE<00007ffe25b40000 00042000 "SspiCli.dll" "sspicli.pdb" 0 {12ef87e8-99cd-7f95-cabe1526415848d3} 1 26894415>
+DBG-MODULE<00007ffe25d60000 00069000 "mswsock.dll" "mswsock.pdb" 0 {41a36919-6926-6178-1d0cd5e84885b7b0} 1 1532965779>
+DBG-MODULE<00007ffe25e50000 00028000 "USERENV.dll" "userenv.pdb" 0 {7ded4bab-083b-ae56-622378ecd00504ed} 1 4253620786>
+DBG-MODULE<00007ffe25fb0000 0001B000 "CRYPTSP.dll" "cryptsp.pdb" 0 {54f01f3c-829c-48c3-c37c151e1fa875dc} 1 3105713520>
+DBG-MODULE<00007ffe25fd0000 0000C000 "cryptbase.dll" "cryptbase.pdb" 0 {ed9d2191-5e60-6774-5a7af94107cfbedf} 1 4127665146>
+DBG-MODULE<00007ffe26060000 00049000 "wldp.dll" "WLDP.pdb" 0 {4bba8f31-a271-e2ba-16697fd279893adb} 1 2696076026>
+DBG-MODULE<00007ffe260e0000 00037000 "NTASN1.dll" "ntasn1.pdb" 0 {a73e346f-52d2-957d-7bcce30852da7dd1} 1 1791870397>
+DBG-MODULE<00007ffe26120000 0002D000 "ncrypt.dll" "ncrypt.pdb" 0 {e8f1ad30-1f22-2713-7ab281f740616f06} 1 2130333666>
+DBG-MODULE<00007ffe26150000 00028000 "bcrypt.dll" "bcrypt.pdb" 0 {e4b2a946-bc67-37c3-7aef97939a171cb0} 1 821596159>
+DBG-MODULE<00007ffe26440000 00012000 "MSASN1.dll" "msasn1.pdb" 0 {e2d6127a-b652-b371-0da628b6bf05d783} 1 2134280455>
+DBG-MODULE<00007ffe26480000 0004E000 "cfgmgr32.DLL" "cfgmgr32.pdb" 0 {8ffd39b9-631b-465f-8aac875f31e57a23} 1 2340455172>
+DBG-MODULE<00007ffe264d0000 00033000 "devobj.dll" "devobj.pdb" 0 {1f74f795-6c04-3374-95536736f85ee07d} 1 2260741578>
+DBG-MODULE<00007ffe26510000 0000A000 "DPAPI.dll" "dpapi.pdb" 0 {5ab38c2c-2f9b-3041-348c006c9d43af37} 1 3263641257>
+DBG-MODULE<00007ffe266e0000 00021000 "profapi.dll" "profapi.pdb" 0 {71ba9ee1-acdf-6287-edb246f21cb6645d} 1 3996287613>
+DBG-MODULE<00007ffe267b0000 0039C000 "KERNELBASE.dll" "kernelbase.pdb" 0 {bdc5d94c-87b7-ead6-c35ebc2b73180198} 1 4205071824>
+DBG-MODULE<00007ffe26b50000 00026000 "win32u.dll" "win32u.pdb" 0 {c4a9f3c3-3396-3de0-6cce3692f708a274} 1 3278192656>
+DBG-MODULE<00007ffe26b80000 00112000 "gdi32full.dll" "gdi32full.pdb" 0 {fc0073d4-89db-a88d-4efa9a7b278d5c39} 1 2446474017>
+DBG-MODULE<00007ffe26ca0000 0007B000 "bcryptPrimitives.dll" "bcryptprimitives.pdb" 0 {1cd329bd-5196-b93b-c00a2aec6451b73c} 1 1188114637>
+DBG-MODULE<00007ffe26d20000 00166000 "CRYPT32.dll" "crypt32.pdb" 0 {218288fe-d0d7-9047-8906f72383f770f1} 1 4170095844>
+DBG-MODULE<00007ffe26f50000 00111000 "ucrtbase.dll" "ucrtbase.pdb" 0 {a3f6745c-6328-b786-6dd6274b30a35ba1} 1 4126938531>
+DBG-MODULE<00007ffe27070000 0006B000 "WINTRUST.dll" "wintrust.pdb" 0 {fe8827e8-bb74-620c-6f60b7277589a0be} 1 4130874818>
+DBG-MODULE<00007ffe270e0000 0009A000 "msvcp_win.dll" "msvcp_win.pdb" 0 {4de4b5c0-a73e-798f-6b6fc8b61a97a1e8} 1 1497702851>
+DBG-MODULE<00007ffe27180000 001AD000 "USER32.dll" "user32.pdb" 0 {d796b83d-ce61-9c9b-8c95d03388a0f426} 1 4031474420>
+DBG-MODULE<00007ffe27330000 007EF000 "SHELL32.dll" "shell32.pdb" 0 {f2671f58-c357-0a43-8d345acbda40df84} 1 1602385256>
+DBG-MODULE<00007ffe27b20000 00032000 "IMM32.DLL" "imm32.pdb" 0 {e893b6af-7339-c855-bf083f17fea9ef29} 1 724026228>
+DBG-MODULE<00007ffe27bc0000 0001F000 "imagehlp.dll" "imagehlp.pdb" 0 {fe543a7b-86c9-c082-c53c86478bc5eb98} 1 2231169139>
+DBG-MODULE<00007ffe27be0000 00009000 "NSI.dll" "nsi.pdb" 0 {ab14e867-9a32-ccd0-0494a920c48f7ca5} 1 1518228994>
+DBG-MODULE<00007ffe27c80000 0047A000 "SETUPAPI.dll" "setupapi.pdb" 0 {03a02caa-73ef-2e4a-0d6dffb5ea3aca41} 1 1690403326>
+DBG-MODULE<00007ffe28120000 000F1000 "shcore.dll" "shcore.pdb" 0 {aae10e48-f7b1-1530-2cfa8e869deb353c} 1 3291825040>
+DBG-MODULE<00007ffe28220000 0038A000 "combase.dll" "combase.pdb" 0 {3b1c0aa4-5be5-045a-3f43ea8e6be1b71a} 1 1646891506>
+DBG-MODULE<00007ffe285b0000 0005E000 "SHLWAPI.dll" "shlwapi.pdb" 0 {eaf07319-6a02-89d7-d29a097228847c96} 1 3275811965>
+DBG-MODULE<00007ffe28610000 0019C000 "ole32.dll" "ole32.pdb" 0 {a9ef0128-9c05-74c4-94c19bd9d62e0326} 1 2483192605>
+DBG-MODULE<00007ffe28910000 000C3000 "KERNEL32.DLL" "kernel32.pdb" 0 {367d472f-7a91-716a-c172660c7f028ef7} 1 3371794536>
+DBG-MODULE<00007ffe28a00000 000D7000 "OLEAUT32.dll" "oleaut32.pdb" 0 {124433fa-efe0-3b6f-a358473bb4d6fd7f} 1 1339448798>
+DBG-MODULE<00007ffe28ae0000 000A7000 "msvcrt.dll" "msvcrt.pdb" 0 {c6259718-5c4b-9818-5735f59a8a3d21f1} 1 3302495532>
+DBG-MODULE<00007ffe28c20000 000B0000 "clbcatq.dll" "CLBCatQ.pdb" 0 {8bc7ce8e-78b0-1e91-a6bdcf510ba0a4d9} 1 1827036727>
+DBG-MODULE<00007ffe28cd0000 00115000 "RPCRT4.dll" "rpcrt4.pdb" 0 {ab0284b8-e806-ec5f-6bfc3ce8a08c0e5c} 1 3570396343>
+DBG-MODULE<00007ffe28df0000 00071000 "WS2_32.dll" "ws2_32.pdb" 0 {4fd99d5b-8cef-7e09-c754ff8f32ad9a15} 1 3910265448>
+DBG-MODULE<00007ffe28e70000 0011E000 "MSCTF.dll" "msctf.pdb" 0 {f5b1d009-bc14-a041-2971e17fd04644dd} 1 2795726909>
+DBG-MODULE<00007ffe28f90000 000A4000 "sechost.dll" "sechost.pdb" 0 {e28b5430-61e9-c8cc-0d0f706f60a7be3c} 1 2500275059>
+DBG-MODULE<00007ffe29040000 000AE000 "advapi32.dll" "advapi32.pdb" 0 {204911b4-6130-d00f-4881d01495861808} 1 2087653580>
+DBG-MODULE<00007ffe290f0000 00029000 "GDI32.dll" "gdi32.pdb" 0 {56f6da1b-cf68-b95a-e6159c28e2066b89} 1 3448095547>
+DBG-MODULE<00007ffe29370000 00214000 "ntdll.dll" "ntdll.pdb" 0 {ad309df2-55df-55d7-ee96d09e93014650} 1 2843385558>
+<:Exception.DebugModules>
+Unloaded Module: 00007ffdf40a0000 00017000 "OnDemandConnRouteHelper.dll"
+Unloaded Module: 00007ffdeb280000 0017E000 "dxilconv.dll"
+Unloaded Module: 00007ffe1a2e0000 000AE000 "NvCameraAllowlisting64.dll"
+Unloaded Module: 00007ffde8a20000 00C02000 "igd12umd64.dll"
+Unloaded Module: 00007ffe19cf0000 002C8000 "igdgmm64.dll"
+Unloaded Module: 00007ffde0bb0000 00027000 "igdinfo64.dll"
+Unloaded Module: 00007ffe260e0000 00037000 "NTASN1.dll"
+Unloaded Module: 00007ffe26120000 0002D000 "ncrypt.dll"
+Unloaded Module: 00007ffe114b0000 0145D000 "igd10iumd64.dll"
+Unloaded Module: 00007ffe1a2d0000 0017E000 "dxilconv.dll"
+Unloaded Module: 00007ffe260e0000 00037000 "NTASN1.dll"
+Unloaded Module: 00007ffe26120000 0002D000 "ncrypt.dll"
+Unloaded Module: 00007ffe114b0000 0145D000 "igd10iumd64.dll"
+Unloaded Module: 00007ffe19cf0000 002C8000 "igdgmm64.dll"
+Unloaded Module: 00007ffe0dbd0000 02BC7000 "igc64.dll"
+Unloaded Module: 00007ffe1a390000 000BE000 "nvldumdx.dll"
+Unloaded Module: 00007ffde5fa0000 0368F000 "nvwgf2umx.dll"
+Unloaded Module: 00007ffe21370000 001B0000 "WindowsCodecs.dll"
+Unloaded Module: 00007ffe23a80000 00008000 "XINPUT9_1_0.dll"
+Unloaded Module: 00007ffe250b0000 0000E000 "HID.DLL"
+Unloaded Module: 00007ffde5750000 0084F000 "NvCamera64.dll"
+Unloaded Module: 00007ffde5340000 00404000 "d3dcompiler_47_64.dll"
+Unloaded Module: 00007ffe15b90000 0017E000 "dxilconv.dll"
+Unloaded Module: 00007ffe1a2e0000 000AE000 "NvCameraAllowlisting64.dll"
+Unloaded Module: 00007ffe1a270000 001DE000 "d3d12.dll"
+Unloaded Module: 00007ffe1a390000 000BE000 "nvldumdx.dll"
+Unloaded Module: 00007ffde5fa0000 0368F000 "nvwgf2umx.dll"
+Unloaded Module: 00007ffe21370000 001B0000 "WindowsCodecs.dll"
+Unloaded Module: 00007ffe23a80000 00008000 "XINPUT9_1_0.dll"
+Unloaded Module: 00007ffe250b0000 0000E000 "HID.DLL"
+Unloaded Module: 00007ffde5750000 0084F000 "NvCamera64.dll"
+Unloaded Module: 00007ffde5340000 00404000 "d3dcompiler_47_64.dll"
+Unloaded Module: 00007ffe1a2e0000 000AE000 "NvCameraAllowlisting64.dll"
+Unloaded Module: 00007ffe21820000 00257000 "d3d11.dll"
+Unloaded Module: 00007ffe260e0000 00037000 "NTASN1.dll"
+Unloaded Module: 00007ffe26120000 0002D000 "ncrypt.dll"
+Unloaded Module: 00007ffe114b0000 0145D000 "igd10iumd64.dll"
+Unloaded Module: 00007ffe19cf0000 002C8000 "igdgmm64.dll"
+Unloaded Module: 00007ffe0dbd0000 02BC7000 "igc64.dll"
+Unloaded Module: 00007ffe24380000 00015000 "resourcepolicyclient.dll"
+<Set.NotableModules> NvCamera64.dll
+<Set.NotableModules> nvspcap64.dll
+<HookModuleFound> No
+Last Guard Dispatch Func[0]: 0x00007ffe267d9750
+Last Guard Dispatch Func[1]: 0x00007ffe267d9750
+Last Guard Dispatch Func[2]: 0x00007ffe267d9750
+Last Guard Dispatch Func[3]: 0x00007ffe267d9750
+Last Guard Dispatch Func[4]: 0x00007ffe267d9750
+Last Guard Dispatch Func[5]: 0x00007ffe267d9750
+Last Guard Dispatch Func[6]: 0x00007ffe267d9750
+Last Guard Dispatch Func[7]: 0x00007ffe267d9750
+Last Guard Dispatch Func[8]: 0x00007ffe267d9750
+Last Guard Dispatch Func[9]: 0x00007ffe267d9750
+Last Guard Dispatch Func[10]: 0x00007ffe267d9750
+Last Guard Dispatch Func[11]: 0x00007ffe267d9750
+Last Guard Dispatch Func[12]: 0x00007ffe267d9750
+Last Guard Dispatch Func[13]: 0x00007ffe267d9750
+Last Guard Dispatch Func[14]: 0x00007ffe267d9750
+Last Guard Dispatch Func[15]: 0x00007ffe267d9750
+
+----------------------------------------
+    Memory Dump
+----------------------------------------
+
+Code: 32 bytes starting at (RIP = 0000000000000000 - 10)
+
+fffffffffffffff0: <can't read from this address>
+* = addr          **                                                  *               
+0000000000000000: <can't read from this address>
+
+
+Stack: 1024 bytes starting at (RSP = 0000002c8ffff008 - 20)
+
+0000002c8fffefe0: 28 F0 FF 8F  2C 00 00 00  7A 8E A4 B8  CE E4 FA 11  (...,...z.......
+0000002c8fffeff0: A8 18 61 35  B8 01 00 00  D1 E7 FB 12  28 3E 54 6A  ..a5........(>Tj
+0000002c8ffff000: 00 00 00 00  BA 57 9F E7  42 AD 9D 2F  F7 7F 00 00  .....W..B../....
+* = addr                                    **                                *       
+0000002c8ffff000: 00 00 00 00  BA 57 9F E7  42 AD 9D 2F  F7 7F 00 00  .....W..B../....
+0000002c8ffff010: 80 44 CC 02  00 00 00 00  00 10 7A 2F  F7 7F 00 00  .D........z/....
+0000002c8ffff020: 10 0C BE 31  F7 7F 00 00  00 00 00 00  42 1C 46 98  ...1........B.F.
+0000002c8ffff030: 00 10 00 00  00 00 00 00  40 00 00 00  00 00 00 00  ........@.......
+0000002c8ffff040: 3A 02 18 00  00 00 00 00  58 A0 F6 8F  2C 00 00 00  :.......X...,...
+0000002c8ffff050: B9 18 00 00  00 BA 2C 01  00 00 48 BD  00 10 0C 02  ......,...H.....
+0000002c8ffff060: 00 00 00 00  48 BB 00 00  7A 2F F7 7F  00 00 33 FF  ....H...z/....3.
+0000002c8ffff070: 33 F6 45 33  C0 45 33 C9  45 33 D2 45  33 DB 45 33  3.E3.E3.E3.E3.E3
+0000002c8ffff080: E4 45 33 ED  45 33 F6 45  33 FF 33 C0  FF E0 00 00  .E3.E3.E3.3.....
+0000002c8ffff090: B0 70 CB 22  FE 7F 00 00  00 00 00 00  00 00 00 00  .p."............
+0000002c8ffff0a0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+0000002c8ffff0b0: 00 00 00 00  00 00 00 00  00 50 21 27  FE 7F 00 00  .........P!'....
+0000002c8ffff0c0: 00 00 00 00  00 00 00 00  44 2E 41 29  FE 7F 00 00  ........D.A)....
+0000002c8ffff0d0: 84 00 00 00  00 00 00 00  50 61 19 27  FE 7F 00 00  ........Pa.'....
+0000002c8ffff0e0: 00 00 00 00  00 00 00 00  62 00 4E 02  00 00 00 00  ........b.N.....
+0000002c8ffff0f0: 28 F1 FF 8F  2C 00 00 00  30 00 00 00  02 00 00 00  (...,...0.......
+0000002c8ffff100: 54 15 B5 26  FE 7F 00 00  A2 61 19 27  FE 7F 00 00  T..&.....a.'....
+0000002c8ffff110: 00 00 00 00  00 00 00 00  58 F1 FF 8F  2C 00 00 00  ........X...,...
+0000002c8ffff120: 50 F2 FF 8F  2C 00 00 00  80 C4 89 D1  B6 01 00 00  P...,...........
+0000002c8ffff130: 20 00 00 00  00 00 00 00  3A 02 18 00  00 00 00 00   .......:.......
+0000002c8ffff140: 01 00 00 02  00 00 00 00  99 AF AF AB  D8 64 EC A7  .............d..
+0000002c8ffff150: 99 AF AF AB  D8 64 EC A7  99 AF AF AB  D8 64 EC A7  .....d.......d..
+0000002c8ffff160: D7 8F C1 09  F0 EB 2B 15  AF E8 F7 70  A4 99 C0 17  ......+....p....
+0000002c8ffff170: 5D C3 A2 00  00 00 00 00  00 10 0C 02  00 00 00 00  ]...............
+0000002c8ffff180: 1E 00 00 00  2C 01 00 00  00 00 00 00  00 00 00 00  ....,...........
+0000002c8ffff190: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+0000002c8ffff1a0: 90 6C 85 19  F4 F2 8C 23  BA 88 D9 94  D9 3A BD BB  .l.....#.....:..
+0000002c8ffff1b0: A0 F2 FF 8F  2C 00 00 00  00 00 0C 00  00 00 00 00  ....,...........
+0000002c8ffff1c0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+0000002c8ffff1d0: 30 F3 FF 8F  00 00 00 00  62 BC E2 2F  F7 7F 00 00  0.......b../....
+0000002c8ffff1e0: 00 20 0A 90  2C 00 00 00  C8 78 1A 27  FE 7F 00 00  . ..,....x.'....
+0000002c8ffff1f0: 01 00 00 02  00 00 00 00  B0 70 CB 22  FE 7F 00 00  .........p."....
+0000002c8ffff200: E0 52 C6 3E  56 33 66 3C  DC B0 CE 3E  F6 A8 12 3E  .R.>V3f<...>...>
+0000002c8ffff210: 30 F3 FF 8F  2C 00 00 00  03 AE 7E 48  D7 8D 5A F6  0...,.....~H..Z.
+0000002c8ffff220: 9B C9 10 D5  2D 39 9D 69  3F 95 35 8C  73 12 A7 C8  ....-9.i?.5.s...
+0000002c8ffff230: 71 BB D7 E3  96 D6 6B B5  20 15 92 82  E0 87 FF FF  q.....k. .......
+0000002c8ffff240: 93 54 D8 29  0C 1B 5C DC  20 E6 12 A1  C9 67 97 FD  .T.)..\. ....g..
+0000002c8ffff250: 93 54 D8 29  0D 1B 5C DC  90 6C 85 19  F4 F2 8C 23  .T.)..\..l.....#
+0000002c8ffff260: 00 00 2F BF  B6 01 00 00  00 00 00 00  00 00 00 00  ../.............
+0000002c8ffff270: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+0000002c8ffff280: 37 9F 67 3E  3A F1 1B 3C  BB 90 97 E3  1C 8C CC F4  7.g>:..<........
+0000002c8ffff290: 74 6A 66 E4  DB 61 D1 87  0E 79 E1 2F  F7 7F 00 00  tjf..a...y./....
+0000002c8ffff2a0: 70 86 CF BD  B7 01 00 00  CB 76 E1 2F  F7 7F 00 00  p........v./....
+0000002c8ffff2b0: 30 BE E1 2F  F7 7F 00 00  20 F3 FF 8F  2C 00 00 00  0../.... ...,...
+0000002c8ffff2c0: 64 F3 FF 8F  2C 00 00 00  D9 CE E1 2F  F7 7F 00 00  d...,....../....
+0000002c8ffff2d0: EB 37 F1 3E  C9 60 50 3F  CB 00 F4 3E  3B C5 51 3F  .7.>.`P?...>;.Q?
+0000002c8ffff2e0: EB 37 F1 3E  C9 60 50 3F  CB 00 F4 3E  3B C5 51 3F  .7.>.`P?...>;.Q?
+0000002c8ffff2f0: 03 00 00 00  00 00 00 00  4B 4A 74 94  BE 6D DA 49  ........KJt..m.I
+0000002c8ffff300: 4B 4A 74 94  BE 6D DA 49  4B 4A 74 94  BE 6D DA 49  KJt..m.IKJt..m.I
+0000002c8ffff310: F4 E2 94 1C  BA 7E 90 B1  BB 90 97 E3  1C 8C CC F4  .....~..........
+0000002c8ffff320: A7 37 36 3D  90 C5 63 3E  03 00 00 00  00 00 00 00  .76=..c>........
+0000002c8ffff330: 00 10 0C 02  00 00 00 00  00 10 00 00  00 00 00 00  ................
+0000002c8ffff340: C8 2D 4D 81  B6 01 00 00  CB 76 E1 2F  F7 7F 00 00  .-M......v./....
+0000002c8ffff350: 30 BE E1 2F  F7 7F 00 00  D0 F3 FF 8F  2C 00 00 00  0../........,...
+0000002c8ffff360: 03 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+0000002c8ffff370: A1 D8 5B 3E  3C 5E 23 3C  85 0E 66 3E  F0 CE 83 3D  ..[><^#<..f>...=
+0000002c8ffff380: A1 D8 5B 3E  3C 5E 23 3C  85 0E 66 3E  F0 CE 83 3D  ..[><^#<..f>...=
+0000002c8ffff390: AF E8 F7 70  A4 99 C0 17  5D C3 A2 00  00 00 00 00  ...p....].......
+0000002c8ffff3a0: 00 10 0C 02  00 00 00 00  1E 00 00 00  2C 01 00 00  ............,...
+0000002c8ffff3b0: D8 22 B6 F5  1C 22 46 6E  00 00 00 00  00 00 00 00  ."..."Fn........
+0000002c8ffff3c0: C8 2D 4D 81  B6 01 00 00  A7 BF DF 2F  F7 7F 00 00  .-M......../....
+0000002c8ffff3d0: A7 37 36 3D  90 C5 63 3E  98 D7 27 28  B8 01 00 00  .76=..c>..'(....
+0000002c8ffff3e0: 90 D7 27 28  B8 01 00 00  10 7F D8 30  F7 7F 00 00  ..'(.......0....
+0000002c8ffff3f0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+0000002c8ffff400: 00 00 00 00  00 00 00 00  A7 37 36 3D  90 C5 63 3E  .........76=..c>
+
+
+------------------------------------------------------------------------------
+Percent memory used:    62
+Total physical memory:  16958480384 (15.79G)
+Free physical memory:   6287282176 (5.86G)
+Total Page file:        27159027712 (25.29G)
+Free Page file:         10073198592 (9.38G)
+Total virtual memory:   140737488224256 (128.00T)
+Free virtual memory:    140687693127680 (127.95T)
+<Memory.HighLoad> No
+<Memory.LowPageFile> No
+------------------------------------------------------------------------------
+Working Set Size:       5740859392 (5.35G)
+Peak Working Set Size:  5901185024 (5.50G)
+Pagefile Usage:         10104438784 (9.41G)
+Peak Pagefile Usage:    10290831360 (9.58G)
+Page Fault Count:       3674280
+Quota Paged Pool Usage:           2804072 (2.67M)
+Quota Peak Paged Pool Usage:      3119576 (2.98M)
+Quota Non-Paged Pool Usage:       276336 (269.86K)
+Quota Peak Non-Paged Pool Usage:  445868 (435.42K)
+------------------------------------------------------------------------------
+Loaded Module Total: 539.62M
+Debug Tracking Total: 0.00B
+
+<FreePageAccessViolation> No
+
+List of running Wow.exe processes
+
+Process: C:\Program Files (x86)\World of Warcraft\_retail_\Wow.exe; pid: 11668
+
+List of running Agent.exe processes
+
+Dump file written with return: (0) The operation completed successfully.
